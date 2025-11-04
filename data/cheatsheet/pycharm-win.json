@@ -1,0 +1,2162 @@
+{
+    "tool": {
+        "slug": "pycharm-win",
+        "name": "PyCharm",
+        "os": "win",
+        "page_metadata": {
+            "cheat_sheet": {
+                "description": "Master PyCharm with our comprehensive cheatsheet! Learn essential keyboard shortcuts, powerful features, and expert tips for a seamless Python development workflow."
+            }
+        },
+        "units": [
+            {
+                "name": "Editing I",
+                "id": 131,
+                "commands": [
+                    {
+                        "id": 1415,
+                        "name": "Complete code",
+                        "visuals": [],
+                        "keySequences": [
+                            {
+                                "keyBins": [
+                                    {
+                                        "key": {
+                                            "alt": false,
+                                            "cmd": false,
+                                            "ctrl": true,
+                                            "shift": false,
+                                            "key": "space",
+                                            "keypress": "SPACE"
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": 1416,
+                        "name": "Comment/uncomment code with block comments",
+                        "visuals": [],
+                        "keySequences": [
+                            {
+                                "keyBins": [
+                                    {
+                                        "key": {
+                                            "alt": false,
+                                            "cmd": false,
+                                            "ctrl": true,
+                                            "shift": true,
+                                            "key": "/",
+                                            "keypress": "?"
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": 1417,
+                        "name": "Comment/uncomment current line or selected block with line comments",
+                        "visuals": [],
+                        "keySequences": [
+                            {
+                                "keyBins": [
+                                    {
+                                        "key": {
+                                            "alt": false,
+                                            "cmd": false,
+                                            "ctrl": true,
+                                            "shift": false,
+                                            "key": "/",
+                                            "keypress": "/"
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": 1418,
+                        "name": "Complete Current Statement",
+                        "visuals": [],
+                        "keySequences": [
+                            {
+                                "keyBins": [
+                                    {
+                                        "key": {
+                                            "alt": false,
+                                            "cmd": false,
+                                            "ctrl": true,
+                                            "shift": true,
+                                            "key": "enter",
+                                            "keypress": "ENTER"
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": 1420,
+                        "name": "Implement base interface/class methods in the current class",
+                        "visuals": [],
+                        "keySequences": [
+                            {
+                                "keyBins": [
+                                    {
+                                        "key": {
+                                            "alt": false,
+                                            "cmd": false,
+                                            "ctrl": true,
+                                            "shift": false,
+                                            "key": "i",
+                                            "keypress": "i"
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": 1421,
+                        "name": "Override base class methods in the current class",
+                        "visuals": [],
+                        "keySequences": [
+                            {
+                                "keyBins": [
+                                    {
+                                        "key": {
+                                            "alt": false,
+                                            "cmd": false,
+                                            "ctrl": true,
+                                            "shift": false,
+                                            "key": "o",
+                                            "keypress": "o"
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": 1422,
+                        "name": "Show parameters of the method call at caret",
+                        "visuals": [],
+                        "keySequences": [
+                            {
+                                "keyBins": [
+                                    {
+                                        "key": {
+                                            "alt": false,
+                                            "cmd": false,
+                                            "ctrl": true,
+                                            "shift": false,
+                                            "key": "p",
+                                            "keypress": "p"
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": 1424,
+                        "name": "Surround selected code fragment with if, while, try/catch or other construct",
+                        "visuals": [],
+                        "keySequences": [
+                            {
+                                "keyBins": [
+                                    {
+                                        "key": {
+                                            "alt": true,
+                                            "cmd": false,
+                                            "ctrl": true,
+                                            "shift": false,
+                                            "key": "t",
+                                            "keypress": "t"
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Editing II",
+                "id": 132,
+                "commands": [
+                    {
+                        "id": 1425,
+                        "name": "Indent current line or selected block according to the code style settings",
+                        "visuals": [],
+                        "keySequences": [
+                            {
+                                "keyBins": [
+                                    {
+                                        "key": {
+                                            "alt": true,
+                                            "cmd": false,
+                                            "ctrl": true,
+                                            "shift": false,
+                                            "key": "i",
+                                            "keypress": "i"
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": 1426,
+                        "name": "Copy to clipboard",
+                        "visuals": [],
+                        "keySequences": [
+                            {
+                                "keyBins": [
+                                    {
+                                        "key": {
+                                            "alt": false,
+                                            "cmd": false,
+                                            "ctrl": true,
+                                            "shift": false,
+                                            "key": "c",
+                                            "keypress": "c"
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": 1427,
+                        "name": "Cut to clipboard",
+                        "visuals": [],
+                        "keySequences": [
+                            {
+                                "keyBins": [
+                                    {
+                                        "key": {
+                                            "alt": false,
+                                            "cmd": false,
+                                            "ctrl": true,
+                                            "shift": false,
+                                            "key": "x",
+                                            "keypress": "x"
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": 1428,
+                        "name": "Paste from clipboard",
+                        "visuals": [],
+                        "keySequences": [
+                            {
+                                "keyBins": [
+                                    {
+                                        "key": {
+                                            "alt": false,
+                                            "cmd": false,
+                                            "ctrl": true,
+                                            "shift": false,
+                                            "key": "v",
+                                            "keypress": "v"
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": 1429,
+                        "name": "Paste from recent clipboards",
+                        "visuals": [],
+                        "keySequences": [
+                            {
+                                "keyBins": [
+                                    {
+                                        "key": {
+                                            "alt": false,
+                                            "cmd": false,
+                                            "ctrl": true,
+                                            "shift": true,
+                                            "key": "v",
+                                            "keypress": "V"
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": 1430,
+                        "name": "Paste without formatting, autoimport, literal escaping etc.",
+                        "visuals": [],
+                        "keySequences": [
+                            {
+                                "keyBins": [
+                                    {
+                                        "key": {
+                                            "alt": true,
+                                            "cmd": false,
+                                            "ctrl": true,
+                                            "shift": true,
+                                            "key": "v",
+                                            "keypress": "V"
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": 1431,
+                        "name": "Reformat code",
+                        "visuals": [],
+                        "keySequences": [
+                            {
+                                "keyBins": [
+                                    {
+                                        "key": {
+                                            "alt": true,
+                                            "cmd": false,
+                                            "ctrl": true,
+                                            "shift": false,
+                                            "key": "l",
+                                            "keypress": "l"
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": 1432,
+                        "name": "Show Intention Actions",
+                        "visuals": [],
+                        "keySequences": [
+                            {
+                                "keyBins": [
+                                    {
+                                        "key": {
+                                            "alt": true,
+                                            "cmd": false,
+                                            "ctrl": false,
+                                            "shift": false,
+                                            "key": "enter",
+                                            "keypress": "ENTER"
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": 1433,
+                        "name": "Unindent Selection",
+                        "visuals": [],
+                        "keySequences": [
+                            {
+                                "keyBins": [
+                                    {
+                                        "key": {
+                                            "alt": false,
+                                            "cmd": false,
+                                            "ctrl": false,
+                                            "shift": true,
+                                            "key": "tab",
+                                            "keypress": "TAB"
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Editing III",
+                "id": 133,
+                "commands": [
+                    {
+                        "id": 1436,
+                        "name": "Delete Line",
+                        "visuals": [],
+                        "keySequences": [
+                            {
+                                "keyBins": [
+                                    {
+                                        "key": {
+                                            "alt": false,
+                                            "cmd": false,
+                                            "ctrl": true,
+                                            "shift": false,
+                                            "key": "y",
+                                            "keypress": "y"
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": 1437,
+                        "name": "Delete to Word End",
+                        "visuals": [],
+                        "keySequences": [
+                            {
+                                "keyBins": [
+                                    {
+                                        "key": {
+                                            "alt": false,
+                                            "cmd": false,
+                                            "ctrl": true,
+                                            "shift": false,
+                                            "key": "del",
+                                            "keypress": "DEL"
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": 1438,
+                        "name": "Delete to Word Start",
+                        "visuals": [],
+                        "keySequences": [
+                            {
+                                "keyBins": [
+                                    {
+                                        "key": {
+                                            "alt": false,
+                                            "cmd": false,
+                                            "ctrl": true,
+                                            "shift": false,
+                                            "key": "backspace",
+                                            "keypress": "BACKSPACE"
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": 1439,
+                        "name": "Duplicate Line or Block",
+                        "visuals": [],
+                        "keySequences": [
+                            {
+                                "keyBins": [
+                                    {
+                                        "key": {
+                                            "alt": false,
+                                            "cmd": false,
+                                            "ctrl": true,
+                                            "shift": false,
+                                            "key": "d",
+                                            "keypress": "d"
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": 1440,
+                        "name": "Expand folding region at caret",
+                        "visuals": [],
+                        "keySequences": [
+                            {
+                                "keyBins": [
+                                    {
+                                        "key": {
+                                            "alt": false,
+                                            "cmd": false,
+                                            "ctrl": true,
+                                            "shift": false,
+                                            "key": "=",
+                                            "keypress": "="
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": 1441,
+                        "name": "Expand all folding regions",
+                        "visuals": [],
+                        "keySequences": [
+                            {
+                                "keyBins": [
+                                    {
+                                        "key": {
+                                            "alt": false,
+                                            "cmd": false,
+                                            "ctrl": true,
+                                            "shift": true,
+                                            "key": "=",
+                                            "keypress": "+"
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": 1442,
+                        "name": "Join Lines",
+                        "visuals": [],
+                        "keySequences": [
+                            {
+                                "keyBins": [
+                                    {
+                                        "key": {
+                                            "alt": false,
+                                            "cmd": false,
+                                            "ctrl": true,
+                                            "shift": true,
+                                            "key": "j",
+                                            "keypress": "J"
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": 1443,
+                        "name": "Split Line",
+                        "visuals": [],
+                        "keySequences": [
+                            {
+                                "keyBins": [
+                                    {
+                                        "key": {
+                                            "alt": false,
+                                            "cmd": false,
+                                            "ctrl": true,
+                                            "shift": false,
+                                            "key": "enter",
+                                            "keypress": "ENTER"
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": 1444,
+                        "name": "Start New Line",
+                        "visuals": [],
+                        "keySequences": [
+                            {
+                                "keyBins": [
+                                    {
+                                        "key": {
+                                            "alt": false,
+                                            "cmd": false,
+                                            "ctrl": false,
+                                            "shift": true,
+                                            "key": "enter",
+                                            "keypress": "ENTER"
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": 1445,
+                        "name": "Start New Line Before Current",
+                        "visuals": [],
+                        "keySequences": [
+                            {
+                                "keyBins": [
+                                    {
+                                        "key": {
+                                            "alt": true,
+                                            "cmd": false,
+                                            "ctrl": true,
+                                            "shift": false,
+                                            "key": "enter",
+                                            "keypress": "ENTER"
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": 1446,
+                        "name": "Toggle Case",
+                        "visuals": [],
+                        "keySequences": [
+                            {
+                                "keyBins": [
+                                    {
+                                        "key": {
+                                            "alt": false,
+                                            "cmd": false,
+                                            "ctrl": true,
+                                            "shift": true,
+                                            "key": "u",
+                                            "keypress": "U"
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Running / Debugging",
+                "id": 134,
+                "commands": [
+                    {
+                        "id": 1447,
+                        "name": "Run",
+                        "visuals": [],
+                        "keySequences": [
+                            {
+                                "keyBins": [
+                                    {
+                                        "key": {
+                                            "alt": false,
+                                            "cmd": false,
+                                            "ctrl": false,
+                                            "shift": true,
+                                            "key": "f10",
+                                            "keypress": "F10"
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": 1448,
+                        "name": "Debug",
+                        "visuals": [],
+                        "keySequences": [
+                            {
+                                "keyBins": [
+                                    {
+                                        "key": {
+                                            "alt": false,
+                                            "cmd": false,
+                                            "ctrl": false,
+                                            "shift": true,
+                                            "key": "f9",
+                                            "keypress": "F9"
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": 1449,
+                        "name": "Activate Debug window",
+                        "visuals": [],
+                        "keySequences": [
+                            {
+                                "keyBins": [
+                                    {
+                                        "key": {
+                                            "alt": true,
+                                            "cmd": false,
+                                            "ctrl": false,
+                                            "shift": false,
+                                            "key": "5",
+                                            "keypress": "5"
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": 1450,
+                        "name": "Choose and debug configuration",
+                        "visuals": [],
+                        "keySequences": [
+                            {
+                                "keyBins": [
+                                    {
+                                        "key": {
+                                            "alt": true,
+                                            "cmd": false,
+                                            "ctrl": false,
+                                            "shift": true,
+                                            "key": "f9",
+                                            "keypress": "F9"
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": 1451,
+                        "name": "Evaluate arbitrary expression",
+                        "visuals": [],
+                        "keySequences": [
+                            {
+                                "keyBins": [
+                                    {
+                                        "key": {
+                                            "alt": true,
+                                            "cmd": false,
+                                            "ctrl": false,
+                                            "shift": false,
+                                            "key": "f8",
+                                            "keypress": "F8"
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": 1452,
+                        "name": "Resume program execution",
+                        "visuals": [],
+                        "keySequences": [
+                            {
+                                "keyBins": [
+                                    {
+                                        "key": {
+                                            "alt": false,
+                                            "cmd": false,
+                                            "ctrl": false,
+                                            "shift": false,
+                                            "key": "f9",
+                                            "keypress": "F9"
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": 1453,
+                        "name": "Run context configuration",
+                        "visuals": [],
+                        "keySequences": [
+                            {
+                                "keyBins": [
+                                    {
+                                        "key": {
+                                            "alt": false,
+                                            "cmd": false,
+                                            "ctrl": true,
+                                            "shift": true,
+                                            "key": "f10",
+                                            "keypress": "F10"
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": 1454,
+                        "name": "Run to the line where the caret is",
+                        "visuals": [],
+                        "keySequences": [
+                            {
+                                "keyBins": [
+                                    {
+                                        "key": {
+                                            "alt": true,
+                                            "cmd": false,
+                                            "ctrl": false,
+                                            "shift": false,
+                                            "key": "f9",
+                                            "keypress": "F9"
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": 1455,
+                        "name": "Choose and run configuration",
+                        "visuals": [],
+                        "keySequences": [
+                            {
+                                "keyBins": [
+                                    {
+                                        "key": {
+                                            "alt": true,
+                                            "cmd": false,
+                                            "ctrl": false,
+                                            "shift": true,
+                                            "key": "f10",
+                                            "keypress": "F10"
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": 1456,
+                        "name": "Step into the particular method",
+                        "visuals": [],
+                        "keySequences": [
+                            {
+                                "keyBins": [
+                                    {
+                                        "key": {
+                                            "alt": false,
+                                            "cmd": false,
+                                            "ctrl": false,
+                                            "shift": true,
+                                            "key": "f7",
+                                            "keypress": "F7"
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": 1457,
+                        "name": "Step to the next line executed",
+                        "visuals": [],
+                        "keySequences": [
+                            {
+                                "keyBins": [
+                                    {
+                                        "key": {
+                                            "alt": false,
+                                            "cmd": false,
+                                            "ctrl": false,
+                                            "shift": false,
+                                            "key": "f7",
+                                            "keypress": "F7"
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": 1458,
+                        "name": "Step to the first line executed after returning from this method",
+                        "visuals": [],
+                        "keySequences": [
+                            {
+                                "keyBins": [
+                                    {
+                                        "key": {
+                                            "alt": false,
+                                            "cmd": false,
+                                            "ctrl": false,
+                                            "shift": true,
+                                            "key": "f8",
+                                            "keypress": "F8"
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": 1459,
+                        "name": "Step to the next line in this file",
+                        "visuals": [],
+                        "keySequences": [
+                            {
+                                "keyBins": [
+                                    {
+                                        "key": {
+                                            "alt": false,
+                                            "cmd": false,
+                                            "ctrl": false,
+                                            "shift": false,
+                                            "key": "f8",
+                                            "keypress": "F8"
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": 1462,
+                        "name": "View and manage all breakpoints and watchpoints",
+                        "visuals": [],
+                        "keySequences": [
+                            {
+                                "keyBins": [
+                                    {
+                                        "key": {
+                                            "alt": false,
+                                            "cmd": false,
+                                            "ctrl": true,
+                                            "shift": true,
+                                            "key": "f8",
+                                            "keypress": "F8"
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Navigation I",
+                "id": 135,
+                "commands": [
+                    {
+                        "id": 1464,
+                        "name": "Navigate to the declaration of the symbol at caret",
+                        "visuals": [],
+                        "keySequences": [
+                            {
+                                "keyBins": [
+                                    {
+                                        "key": {
+                                            "alt": false,
+                                            "cmd": false,
+                                            "ctrl": true,
+                                            "shift": false,
+                                            "key": "b",
+                                            "keypress": "b"
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": 1465,
+                        "name": "Go to Bookmark 0",
+                        "visuals": [],
+                        "keySequences": [
+                            {
+                                "keyBins": [
+                                    {
+                                        "key": {
+                                            "alt": false,
+                                            "cmd": false,
+                                            "ctrl": true,
+                                            "shift": false,
+                                            "key": "0",
+                                            "keypress": "0"
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": 1466,
+                        "name": "Go to Bookmark 1",
+                        "visuals": [],
+                        "keySequences": [
+                            {
+                                "keyBins": [
+                                    {
+                                        "key": {
+                                            "alt": false,
+                                            "cmd": false,
+                                            "ctrl": true,
+                                            "shift": false,
+                                            "key": "1",
+                                            "keypress": "1"
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": 1467,
+                        "name": "Go to Bookmark 2",
+                        "visuals": [],
+                        "keySequences": [
+                            {
+                                "keyBins": [
+                                    {
+                                        "key": {
+                                            "alt": false,
+                                            "cmd": false,
+                                            "ctrl": true,
+                                            "shift": false,
+                                            "key": "2",
+                                            "keypress": "2"
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": 1468,
+                        "name": "Go to Bookmark 3",
+                        "visuals": [],
+                        "keySequences": [
+                            {
+                                "keyBins": [
+                                    {
+                                        "key": {
+                                            "alt": false,
+                                            "cmd": false,
+                                            "ctrl": true,
+                                            "shift": false,
+                                            "key": "3",
+                                            "keypress": "3"
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": 1469,
+                        "name": "Go to Bookmark 4",
+                        "visuals": [],
+                        "keySequences": [
+                            {
+                                "keyBins": [
+                                    {
+                                        "key": {
+                                            "alt": false,
+                                            "cmd": false,
+                                            "ctrl": true,
+                                            "shift": false,
+                                            "key": "4",
+                                            "keypress": "4"
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": 1470,
+                        "name": "Open image in external editor",
+                        "visuals": [],
+                        "keySequences": [
+                            {
+                                "keyBins": [
+                                    {
+                                        "key": {
+                                            "alt": true,
+                                            "cmd": false,
+                                            "ctrl": true,
+                                            "shift": false,
+                                            "key": "f4",
+                                            "keypress": "F4"
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": 1472,
+                        "name": "Jump to Navigation Bar",
+                        "visuals": [],
+                        "keySequences": [
+                            {
+                                "keyBins": [
+                                    {
+                                        "key": {
+                                            "alt": true,
+                                            "cmd": false,
+                                            "ctrl": false,
+                                            "shift": false,
+                                            "key": "home",
+                                            "keypress": "HOME"
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": 1473,
+                        "name": "Open editor for the selected item and give focus to it",
+                        "visuals": [],
+                        "keySequences": [
+                            {
+                                "keyBins": [
+                                    {
+                                        "key": {
+                                            "alt": false,
+                                            "cmd": false,
+                                            "ctrl": false,
+                                            "shift": false,
+                                            "key": "f4",
+                                            "keypress": "F4"
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": 1474,
+                        "name": "Show list of recently viewed files",
+                        "visuals": [],
+                        "keySequences": [
+                            {
+                                "keyBins": [
+                                    {
+                                        "key": {
+                                            "alt": false,
+                                            "cmd": false,
+                                            "ctrl": true,
+                                            "shift": false,
+                                            "key": "e",
+                                            "keypress": "e"
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": 1475,
+                        "name": "Show list of recently changed files",
+                        "visuals": [],
+                        "keySequences": [
+                            {
+                                "keyBins": [
+                                    {
+                                        "key": {
+                                            "alt": false,
+                                            "cmd": false,
+                                            "ctrl": true,
+                                            "shift": true,
+                                            "key": "e",
+                                            "keypress": "E"
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": 1476,
+                        "name": "Navigate to one of the related or linked files",
+                        "visuals": [],
+                        "keySequences": [
+                            {
+                                "keyBins": [
+                                    {
+                                        "key": {
+                                            "alt": true,
+                                            "cmd": false,
+                                            "ctrl": true,
+                                            "shift": false,
+                                            "key": "home",
+                                            "keypress": "HOME"
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": 1477,
+                        "name": "Activate next tab",
+                        "visuals": [],
+                        "keySequences": [
+                            {
+                                "keyBins": [
+                                    {
+                                        "key": {
+                                            "alt": true,
+                                            "cmd": false,
+                                            "ctrl": false,
+                                            "shift": false,
+                                            "key": "right",
+                                            "keypress": "RIGHT"
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": 1478,
+                        "name": "Select Next Tab in multi-editor file",
+                        "visuals": [],
+                        "keySequences": [
+                            {
+                                "keyBins": [
+                                    {
+                                        "key": {
+                                            "alt": true,
+                                            "cmd": false,
+                                            "ctrl": false,
+                                            "shift": true,
+                                            "key": "right",
+                                            "keypress": "RIGHT"
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": 1479,
+                        "name": "Activate previous tab",
+                        "visuals": [],
+                        "keySequences": [
+                            {
+                                "keyBins": [
+                                    {
+                                        "key": {
+                                            "alt": true,
+                                            "cmd": false,
+                                            "ctrl": false,
+                                            "shift": false,
+                                            "key": "left",
+                                            "keypress": "LEFT"
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": 1480,
+                        "name": "Select Previous Tab in multi-editor file",
+                        "visuals": [],
+                        "keySequences": [
+                            {
+                                "keyBins": [
+                                    {
+                                        "key": {
+                                            "alt": true,
+                                            "cmd": false,
+                                            "ctrl": false,
+                                            "shift": true,
+                                            "key": "left",
+                                            "keypress": "LEFT"
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Navigation II",
+                "id": 136,
+                "commands": [
+                    {
+                        "id": 1481,
+                        "name": "Browse call hierarchy for the selected method",
+                        "visuals": [],
+                        "keySequences": [
+                            {
+                                "keyBins": [
+                                    {
+                                        "key": {
+                                            "alt": true,
+                                            "cmd": false,
+                                            "ctrl": true,
+                                            "shift": false,
+                                            "key": "h",
+                                            "keypress": "h"
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": 1482,
+                        "name": "Go to Bookmark 5",
+                        "visuals": [],
+                        "keySequences": [
+                            {
+                                "keyBins": [
+                                    {
+                                        "key": {
+                                            "alt": false,
+                                            "cmd": false,
+                                            "ctrl": true,
+                                            "shift": false,
+                                            "key": "5",
+                                            "keypress": "5"
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": 1483,
+                        "name": "Go to Bookmark 6",
+                        "visuals": [],
+                        "keySequences": [
+                            {
+                                "keyBins": [
+                                    {
+                                        "key": {
+                                            "alt": false,
+                                            "cmd": false,
+                                            "ctrl": true,
+                                            "shift": false,
+                                            "key": "6",
+                                            "keypress": "6"
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": 1484,
+                        "name": "Go to Bookmark 7",
+                        "visuals": [],
+                        "keySequences": [
+                            {
+                                "keyBins": [
+                                    {
+                                        "key": {
+                                            "alt": false,
+                                            "cmd": false,
+                                            "ctrl": true,
+                                            "shift": false,
+                                            "key": "7",
+                                            "keypress": "7"
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": 1485,
+                        "name": "Go to Bookmark 8",
+                        "visuals": [],
+                        "keySequences": [
+                            {
+                                "keyBins": [
+                                    {
+                                        "key": {
+                                            "alt": false,
+                                            "cmd": false,
+                                            "ctrl": true,
+                                            "shift": false,
+                                            "key": "8",
+                                            "keypress": "8"
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": 1486,
+                        "name": "Go to Bookmark 9",
+                        "visuals": [],
+                        "keySequences": [
+                            {
+                                "keyBins": [
+                                    {
+                                        "key": {
+                                            "alt": false,
+                                            "cmd": false,
+                                            "ctrl": true,
+                                            "shift": false,
+                                            "key": "9",
+                                            "keypress": "9"
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": 1487,
+                        "name": "Navigate to the implementation of class or method",
+                        "visuals": [],
+                        "keySequences": [
+                            {
+                                "keyBins": [
+                                    {
+                                        "key": {
+                                            "alt": true,
+                                            "cmd": false,
+                                            "ctrl": true,
+                                            "shift": false,
+                                            "key": "b",
+                                            "keypress": "b"
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": 1488,
+                        "name": "Move through the most recent change points",
+                        "visuals": [],
+                        "keySequences": [
+                            {
+                                "keyBins": [
+                                    {
+                                        "key": {
+                                            "alt": false,
+                                            "cmd": false,
+                                            "ctrl": true,
+                                            "shift": true,
+                                            "key": "backspace",
+                                            "keypress": "BACKSPACE"
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": 1489,
+                        "name": "Browse method hierarchy for the selected method",
+                        "visuals": [],
+                        "keySequences": [
+                            {
+                                "keyBins": [
+                                    {
+                                        "key": {
+                                            "alt": false,
+                                            "cmd": false,
+                                            "ctrl": true,
+                                            "shift": true,
+                                            "key": "h",
+                                            "keypress": "H"
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": 1490,
+                        "name": "Navigate to the next highlighted error in the active editor",
+                        "visuals": [],
+                        "keySequences": [
+                            {
+                                "keyBins": [
+                                    {
+                                        "key": {
+                                            "alt": false,
+                                            "cmd": false,
+                                            "ctrl": false,
+                                            "shift": false,
+                                            "key": "f2",
+                                            "keypress": "F2"
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": 1491,
+                        "name": "Navigate to the previous highlighted error in the active editor",
+                        "visuals": [],
+                        "keySequences": [
+                            {
+                                "keyBins": [
+                                    {
+                                        "key": {
+                                            "alt": false,
+                                            "cmd": false,
+                                            "ctrl": false,
+                                            "shift": true,
+                                            "key": "f2",
+                                            "keypress": "F2"
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": 1492,
+                        "name": "Navigate to the declaration of the method that current method overrides or implements",
+                        "visuals": [],
+                        "keySequences": [
+                            {
+                                "keyBins": [
+                                    {
+                                        "key": {
+                                            "alt": false,
+                                            "cmd": false,
+                                            "ctrl": true,
+                                            "shift": false,
+                                            "key": "u",
+                                            "keypress": "u"
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": 1494,
+                        "name": "Toggle Bookmark 0",
+                        "visuals": [],
+                        "keySequences": [
+                            {
+                                "keyBins": [
+                                    {
+                                        "key": {
+                                            "alt": false,
+                                            "cmd": false,
+                                            "ctrl": true,
+                                            "shift": true,
+                                            "key": "0",
+                                            "keypress": ")"
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": 1495,
+                        "name": "Toggle Bookmark 1",
+                        "visuals": [],
+                        "keySequences": [
+                            {
+                                "keyBins": [
+                                    {
+                                        "key": {
+                                            "alt": false,
+                                            "cmd": false,
+                                            "ctrl": true,
+                                            "shift": true,
+                                            "key": "1",
+                                            "keypress": "!"
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": 1496,
+                        "name": "Toggle Bookmark 2",
+                        "visuals": [],
+                        "keySequences": [
+                            {
+                                "keyBins": [
+                                    {
+                                        "key": {
+                                            "alt": false,
+                                            "cmd": false,
+                                            "ctrl": true,
+                                            "shift": true,
+                                            "key": "2",
+                                            "keypress": "@"
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": 1497,
+                        "name": "Toggle Bookmark 3",
+                        "visuals": [],
+                        "keySequences": [
+                            {
+                                "keyBins": [
+                                    {
+                                        "key": {
+                                            "alt": false,
+                                            "cmd": false,
+                                            "ctrl": true,
+                                            "shift": true,
+                                            "key": "3",
+                                            "keypress": "#"
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": 1498,
+                        "name": "Toggle Bookmark With Mnemonic",
+                        "visuals": [],
+                        "keySequences": [
+                            {
+                                "keyBins": [
+                                    {
+                                        "key": {
+                                            "alt": false,
+                                            "cmd": false,
+                                            "ctrl": true,
+                                            "shift": false,
+                                            "key": "f11",
+                                            "keypress": "F11"
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": 1499,
+                        "name": "Browse hierarchy for the selected class",
+                        "visuals": [],
+                        "keySequences": [
+                            {
+                                "keyBins": [
+                                    {
+                                        "key": {
+                                            "alt": false,
+                                            "cmd": false,
+                                            "ctrl": true,
+                                            "shift": false,
+                                            "key": "h",
+                                            "keypress": "h"
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Navigation III",
+                "id": 137,
+                "commands": [
+                    {
+                        "id": 1500,
+                        "name": "Move Caret to Code Block End",
+                        "visuals": [],
+                        "keySequences": [
+                            {
+                                "keyBins": [
+                                    {
+                                        "key": {
+                                            "alt": false,
+                                            "cmd": false,
+                                            "ctrl": true,
+                                            "shift": false,
+                                            "key": "]",
+                                            "keypress": "]"
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": 1501,
+                        "name": "Move Caret to Code Block End with Selection",
+                        "visuals": [],
+                        "keySequences": [
+                            {
+                                "keyBins": [
+                                    {
+                                        "key": {
+                                            "alt": false,
+                                            "cmd": false,
+                                            "ctrl": true,
+                                            "shift": true,
+                                            "key": "]",
+                                            "keypress": "}"
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": 1502,
+                        "name": "Move Caret to Code Block Start",
+                        "visuals": [],
+                        "keySequences": [
+                            {
+                                "keyBins": [
+                                    {
+                                        "key": {
+                                            "alt": false,
+                                            "cmd": false,
+                                            "ctrl": true,
+                                            "shift": false,
+                                            "key": "[",
+                                            "keypress": "["
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": 1503,
+                        "name": "Move Caret to Code Block Start with Selection",
+                        "visuals": [],
+                        "keySequences": [
+                            {
+                                "keyBins": [
+                                    {
+                                        "key": {
+                                            "alt": false,
+                                            "cmd": false,
+                                            "ctrl": true,
+                                            "shift": true,
+                                            "key": "[",
+                                            "keypress": "{"
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": 1504,
+                        "name": "Move Caret to Line End with Selection",
+                        "visuals": [],
+                        "keySequences": [
+                            {
+                                "keyBins": [
+                                    {
+                                        "key": {
+                                            "alt": false,
+                                            "cmd": false,
+                                            "ctrl": false,
+                                            "shift": true,
+                                            "key": "end",
+                                            "keypress": "END"
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": 1505,
+                        "name": "Move Caret to Line Start with Selection",
+                        "visuals": [],
+                        "keySequences": [
+                            {
+                                "keyBins": [
+                                    {
+                                        "key": {
+                                            "alt": false,
+                                            "cmd": false,
+                                            "ctrl": false,
+                                            "shift": true,
+                                            "key": "home",
+                                            "keypress": "HOME"
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": 1506,
+                        "name": "Move Caret to Next Word with Selection",
+                        "visuals": [],
+                        "keySequences": [
+                            {
+                                "keyBins": [
+                                    {
+                                        "key": {
+                                            "alt": false,
+                                            "cmd": false,
+                                            "ctrl": true,
+                                            "shift": true,
+                                            "key": "right",
+                                            "keypress": "RIGHT"
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": 1509,
+                        "name": "Move Caret to Text Start",
+                        "visuals": [],
+                        "keySequences": [
+                            {
+                                "keyBins": [
+                                    {
+                                        "key": {
+                                            "alt": false,
+                                            "cmd": false,
+                                            "ctrl": true,
+                                            "shift": false,
+                                            "key": "home",
+                                            "keypress": "HOME"
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": 1510,
+                        "name": "Move selected lines one line down",
+                        "visuals": [],
+                        "keySequences": [
+                            {
+                                "keyBins": [
+                                    {
+                                        "key": {
+                                            "alt": true,
+                                            "cmd": false,
+                                            "ctrl": false,
+                                            "shift": true,
+                                            "key": "down",
+                                            "keypress": "DOWN"
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": 1511,
+                        "name": "Move selected lines one line up",
+                        "visuals": [],
+                        "keySequences": [
+                            {
+                                "keyBins": [
+                                    {
+                                        "key": {
+                                            "alt": true,
+                                            "cmd": false,
+                                            "ctrl": false,
+                                            "shift": true,
+                                            "key": "up",
+                                            "keypress": "UP"
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": 1514,
+                        "name": "Move to the Next Difference",
+                        "visuals": [],
+                        "keySequences": [
+                            {
+                                "keyBins": [
+                                    {
+                                        "key": {
+                                            "alt": false,
+                                            "cmd": false,
+                                            "ctrl": false,
+                                            "shift": false,
+                                            "key": "f7",
+                                            "keypress": "F7"
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": 1515,
+                        "name": "Move to the previous difference",
+                        "visuals": [],
+                        "keySequences": [
+                            {
+                                "keyBins": [
+                                    {
+                                        "key": {
+                                            "alt": false,
+                                            "cmd": false,
+                                            "ctrl": false,
+                                            "shift": true,
+                                            "key": "f7",
+                                            "keypress": "F7"
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Refactoring",
+                "id": 138,
+                "commands": [
+                    {
+                        "id": 1516,
+                        "name": "Create a copy of the selected class, file or directory in the same package/directory",
+                        "visuals": [],
+                        "keySequences": [
+                            {
+                                "keyBins": [
+                                    {
+                                        "key": {
+                                            "alt": false,
+                                            "cmd": false,
+                                            "ctrl": false,
+                                            "shift": true,
+                                            "key": "f5",
+                                            "keypress": "F5"
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": 1517,
+                        "name": "Replace selected expression with a constant",
+                        "visuals": [],
+                        "keySequences": [
+                            {
+                                "keyBins": [
+                                    {
+                                        "key": {
+                                            "alt": true,
+                                            "cmd": false,
+                                            "ctrl": true,
+                                            "shift": false,
+                                            "key": "c",
+                                            "keypress": "c"
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": 1518,
+                        "name": "Copy reference to selected class, method or function",
+                        "visuals": [],
+                        "keySequences": [
+                            {
+                                "keyBins": [
+                                    {
+                                        "key": {
+                                            "alt": true,
+                                            "cmd": false,
+                                            "ctrl": true,
+                                            "shift": true,
+                                            "key": "c",
+                                            "keypress": "C"
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": 1519,
+                        "name": "Create a copy of the selected class",
+                        "visuals": [],
+                        "keySequences": [
+                            {
+                                "keyBins": [
+                                    {
+                                        "key": {
+                                            "alt": false,
+                                            "cmd": false,
+                                            "ctrl": false,
+                                            "shift": false,
+                                            "key": "f5",
+                                            "keypress": "F5"
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": 1520,
+                        "name": "Inline the selected method or variable",
+                        "visuals": [],
+                        "keySequences": [
+                            {
+                                "keyBins": [
+                                    {
+                                        "key": {
+                                            "alt": true,
+                                            "cmd": false,
+                                            "ctrl": true,
+                                            "shift": false,
+                                            "key": "n",
+                                            "keypress": "n"
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": 1521,
+                        "name": "Turn the selected code fragment into a method",
+                        "visuals": [],
+                        "keySequences": [
+                            {
+                                "keyBins": [
+                                    {
+                                        "key": {
+                                            "alt": true,
+                                            "cmd": false,
+                                            "ctrl": true,
+                                            "shift": false,
+                                            "key": "m",
+                                            "keypress": "m"
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": 1522,
+                        "name": "Move the selected class, method, package or static member to another package or class and correct all references",
+                        "visuals": [],
+                        "keySequences": [
+                            {
+                                "keyBins": [
+                                    {
+                                        "key": {
+                                            "alt": false,
+                                            "cmd": false,
+                                            "ctrl": false,
+                                            "shift": false,
+                                            "key": "f6",
+                                            "keypress": "F6"
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": 1523,
+                        "name": "Turn the selected expression into method parameter",
+                        "visuals": [],
+                        "keySequences": [
+                            {
+                                "keyBins": [
+                                    {
+                                        "key": {
+                                            "alt": true,
+                                            "cmd": false,
+                                            "ctrl": true,
+                                            "shift": false,
+                                            "key": "p",
+                                            "keypress": "p"
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": 1524,
+                        "name": "Rename the selected symbol and correct all references",
+                        "visuals": [],
+                        "keySequences": [
+                            {
+                                "keyBins": [
+                                    {
+                                        "key": {
+                                            "alt": false,
+                                            "cmd": false,
+                                            "ctrl": false,
+                                            "shift": true,
+                                            "key": "f6",
+                                            "keypress": "F6"
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": 1525,
+                        "name": "Delete the selected class, method or field, checking for usages",
+                        "visuals": [],
+                        "keySequences": [
+                            {
+                                "keyBins": [
+                                    {
+                                        "key": {
+                                            "alt": true,
+                                            "cmd": false,
+                                            "ctrl": false,
+                                            "shift": false,
+                                            "key": "del",
+                                            "keypress": "DEL"
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": 1526,
+                        "name": "Surrounds the selection with one of the template",
+                        "visuals": [],
+                        "keySequences": [
+                            {
+                                "keyBins": [
+                                    {
+                                        "key": {
+                                            "alt": true,
+                                            "cmd": false,
+                                            "ctrl": true,
+                                            "shift": false,
+                                            "key": "j",
+                                            "keypress": "j"
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": 1527,
+                        "name": "Put a result of the selected expression into a variable",
+                        "visuals": [],
+                        "keySequences": [
+                            {
+                                "keyBins": [
+                                    {
+                                        "key": {
+                                            "alt": true,
+                                            "cmd": false,
+                                            "ctrl": true,
+                                            "shift": false,
+                                            "key": "v",
+                                            "keypress": "v"
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

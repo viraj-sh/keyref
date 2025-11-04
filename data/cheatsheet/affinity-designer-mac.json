@@ -1,0 +1,1135 @@
+{
+    "tool": {
+        "slug": "affinity-designer-mac",
+        "name": "Affinity Designer",
+        "os": "mac",
+        "page_metadata": null,
+        "units": [
+            {
+                "name": "Tools I",
+                "id": 31427,
+                "commands": [
+                    {
+                        "id": 296741,
+                        "name": "Export Area Tool",
+                        "visuals": [],
+                        "keySequences": [
+                            {
+                                "keyBins": [
+                                    {
+                                        "key": {
+                                            "alt": false,
+                                            "cmd": false,
+                                            "ctrl": false,
+                                            "shift": false,
+                                            "key": "e",
+                                            "keypress": "e"
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": 296742,
+                        "name": "Gradient Tool",
+                        "visuals": [],
+                        "keySequences": [
+                            {
+                                "keyBins": [
+                                    {
+                                        "key": {
+                                            "alt": false,
+                                            "cmd": false,
+                                            "ctrl": false,
+                                            "shift": false,
+                                            "key": "g",
+                                            "keypress": "g"
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": 296743,
+                        "name": "Move Tool",
+                        "visuals": [],
+                        "keySequences": [
+                            {
+                                "keyBins": [
+                                    {
+                                        "key": {
+                                            "alt": false,
+                                            "cmd": false,
+                                            "ctrl": false,
+                                            "shift": false,
+                                            "key": "v",
+                                            "keypress": "v"
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": 296744,
+                        "name": "Node Tool",
+                        "visuals": [],
+                        "keySequences": [
+                            {
+                                "keyBins": [
+                                    {
+                                        "key": {
+                                            "alt": false,
+                                            "cmd": false,
+                                            "ctrl": false,
+                                            "shift": false,
+                                            "key": "n",
+                                            "keypress": "n"
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": 296745,
+                        "name": "Pan Tool",
+                        "visuals": [],
+                        "keySequences": [
+                            {
+                                "keyBins": [
+                                    {
+                                        "key": {
+                                            "alt": false,
+                                            "cmd": false,
+                                            "ctrl": false,
+                                            "shift": false,
+                                            "key": "h",
+                                            "keypress": "h"
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Tools II",
+                "id": 31429,
+                "commands": [
+                    {
+                        "id": 296746,
+                        "name": "Pen Tool",
+                        "visuals": [],
+                        "keySequences": [
+                            {
+                                "keyBins": [
+                                    {
+                                        "key": {
+                                            "alt": false,
+                                            "cmd": false,
+                                            "ctrl": false,
+                                            "shift": false,
+                                            "key": "p",
+                                            "keypress": "p"
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": 296747,
+                        "name": "Pencil Tool",
+                        "visuals": [],
+                        "keySequences": [
+                            {
+                                "keyBins": [
+                                    {
+                                        "key": {
+                                            "alt": false,
+                                            "cmd": false,
+                                            "ctrl": false,
+                                            "shift": false,
+                                            "key": "n",
+                                            "keypress": "n"
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": 296748,
+                        "name": "Zoom Tool",
+                        "visuals": [],
+                        "keySequences": [
+                            {
+                                "keyBins": [
+                                    {
+                                        "key": {
+                                            "alt": false,
+                                            "cmd": false,
+                                            "ctrl": false,
+                                            "shift": false,
+                                            "key": "z",
+                                            "keypress": "z"
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": 296749,
+                        "name": "Vector Brush Tool",
+                        "visuals": [],
+                        "keySequences": [
+                            {
+                                "keyBins": [
+                                    {
+                                        "key": {
+                                            "alt": false,
+                                            "cmd": false,
+                                            "ctrl": false,
+                                            "shift": false,
+                                            "key": "b",
+                                            "keypress": "b"
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": 296753,
+                        "name": "Pixel Brush",
+                        "visuals": [],
+                        "keySequences": [
+                            {
+                                "keyBins": [
+                                    {
+                                        "key": {
+                                            "alt": false,
+                                            "cmd": false,
+                                            "ctrl": false,
+                                            "shift": false,
+                                            "key": "b",
+                                            "keypress": "b"
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Tools III",
+                "id": 31428,
+                "commands": [
+                    {
+                        "id": 296750,
+                        "name": "Cycle between rectangle, ellipse, and rounded rect tools",
+                        "visuals": [],
+                        "keySequences": [
+                            {
+                                "keyBins": [
+                                    {
+                                        "key": {
+                                            "alt": false,
+                                            "cmd": false,
+                                            "ctrl": false,
+                                            "shift": false,
+                                            "key": "m",
+                                            "keypress": "m"
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": 296751,
+                        "name": "Cycle between Art Text tool and Frame text tools",
+                        "visuals": [],
+                        "keySequences": [
+                            {
+                                "keyBins": [
+                                    {
+                                        "key": {
+                                            "alt": false,
+                                            "cmd": false,
+                                            "ctrl": false,
+                                            "shift": false,
+                                            "key": "t",
+                                            "keypress": "t"
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": 296752,
+                        "name": "Freehand Selection Tool",
+                        "visuals": [],
+                        "keySequences": [
+                            {
+                                "keyBins": [
+                                    {
+                                        "key": {
+                                            "alt": false,
+                                            "cmd": false,
+                                            "ctrl": false,
+                                            "shift": false,
+                                            "key": "l",
+                                            "keypress": "l"
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": 296754,
+                        "name": "Selection Brush",
+                        "visuals": [],
+                        "keySequences": [
+                            {
+                                "keyBins": [
+                                    {
+                                        "key": {
+                                            "alt": false,
+                                            "cmd": false,
+                                            "ctrl": false,
+                                            "shift": false,
+                                            "key": "w",
+                                            "keypress": "w"
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": 296755,
+                        "name": "Cycle between Marquee Selection tools",
+                        "visuals": [],
+                        "keySequences": [
+                            {
+                                "keyBins": [
+                                    {
+                                        "key": {
+                                            "alt": false,
+                                            "cmd": false,
+                                            "ctrl": false,
+                                            "shift": false,
+                                            "key": "m",
+                                            "keypress": "m"
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Edit I",
+                "id": 31423,
+                "commands": [
+                    {
+                        "id": 296756,
+                        "name": "Undo",
+                        "visuals": [],
+                        "keySequences": [
+                            {
+                                "keyBins": [
+                                    {
+                                        "key": {
+                                            "alt": false,
+                                            "cmd": true,
+                                            "ctrl": false,
+                                            "shift": false,
+                                            "key": "z",
+                                            "keypress": "z"
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": 296757,
+                        "name": "Redo",
+                        "visuals": [],
+                        "keySequences": [
+                            {
+                                "keyBins": [
+                                    {
+                                        "key": {
+                                            "alt": false,
+                                            "cmd": true,
+                                            "ctrl": false,
+                                            "shift": true,
+                                            "key": "z",
+                                            "keypress": "z"
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": 296758,
+                        "name": "Paste Style",
+                        "visuals": [],
+                        "keySequences": [
+                            {
+                                "keyBins": [
+                                    {
+                                        "key": {
+                                            "alt": false,
+                                            "cmd": true,
+                                            "ctrl": false,
+                                            "shift": true,
+                                            "key": "v",
+                                            "keypress": "v"
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": 296759,
+                        "name": "Pase Inside",
+                        "visuals": [],
+                        "keySequences": [
+                            {
+                                "keyBins": [
+                                    {
+                                        "key": {
+                                            "alt": true,
+                                            "cmd": true,
+                                            "ctrl": false,
+                                            "shift": false,
+                                            "key": "v",
+                                            "keypress": "v"
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": 296760,
+                        "name": "Line Break",
+                        "visuals": [],
+                        "keySequences": [
+                            {
+                                "keyBins": [
+                                    {
+                                        "key": {
+                                            "alt": false,
+                                            "cmd": false,
+                                            "ctrl": true,
+                                            "shift": false,
+                                            "key": "enter",
+                                            "keypress": "enter"
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": 296761,
+                        "name": "Non Breaking Space",
+                        "visuals": [],
+                        "keySequences": [
+                            {
+                                "keyBins": [
+                                    {
+                                        "key": {
+                                            "alt": false,
+                                            "cmd": false,
+                                            "ctrl": true,
+                                            "shift": false,
+                                            "key": "space",
+                                            "keypress": "space"
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": 296762,
+                        "name": "Soft Hyphen",
+                        "visuals": [],
+                        "keySequences": [
+                            {
+                                "keyBins": [
+                                    {
+                                        "key": {
+                                            "alt": true,
+                                            "cmd": false,
+                                            "ctrl": false,
+                                            "shift": false,
+                                            "key": "-",
+                                            "keypress": "–"
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": 296763,
+                        "name": "Non Breaking Hyphen",
+                        "visuals": [],
+                        "keySequences": [
+                            {
+                                "keyBins": [
+                                    {
+                                        "key": {
+                                            "alt": true,
+                                            "cmd": false,
+                                            "ctrl": false,
+                                            "shift": true,
+                                            "key": "-",
+                                            "keypress": "—"
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Object Control I",
+                "id": 31424,
+                "commands": [
+                    {
+                        "id": 296764,
+                        "name": "Group",
+                        "visuals": [],
+                        "keySequences": [
+                            {
+                                "keyBins": [
+                                    {
+                                        "key": {
+                                            "alt": false,
+                                            "cmd": true,
+                                            "ctrl": false,
+                                            "shift": false,
+                                            "key": "g",
+                                            "keypress": "g"
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": 296765,
+                        "name": "Ungroup",
+                        "visuals": [],
+                        "keySequences": [
+                            {
+                                "keyBins": [
+                                    {
+                                        "key": {
+                                            "alt": false,
+                                            "cmd": true,
+                                            "ctrl": false,
+                                            "shift": true,
+                                            "key": "g",
+                                            "keypress": "g"
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": 296766,
+                        "name": "Duplicate",
+                        "visuals": [],
+                        "keySequences": [
+                            {
+                                "keyBins": [
+                                    {
+                                        "key": {
+                                            "alt": false,
+                                            "cmd": true,
+                                            "ctrl": false,
+                                            "shift": false,
+                                            "key": "j",
+                                            "keypress": "j"
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": 296767,
+                        "name": "Move Forward One",
+                        "visuals": [],
+                        "keySequences": [
+                            {
+                                "keyBins": [
+                                    {
+                                        "key": {
+                                            "alt": false,
+                                            "cmd": true,
+                                            "ctrl": false,
+                                            "shift": false,
+                                            "key": "]",
+                                            "keypress": "]"
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": 296768,
+                        "name": "Move Back One",
+                        "visuals": [],
+                        "keySequences": [
+                            {
+                                "keyBins": [
+                                    {
+                                        "key": {
+                                            "alt": false,
+                                            "cmd": true,
+                                            "ctrl": false,
+                                            "shift": false,
+                                            "key": "[",
+                                            "keypress": "["
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": 296769,
+                        "name": "Lock",
+                        "visuals": [],
+                        "keySequences": [
+                            {
+                                "keyBins": [
+                                    {
+                                        "key": {
+                                            "alt": false,
+                                            "cmd": true,
+                                            "ctrl": false,
+                                            "shift": false,
+                                            "key": "l",
+                                            "keypress": "l"
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": 296770,
+                        "name": "Unlock",
+                        "visuals": [],
+                        "keySequences": [
+                            {
+                                "keyBins": [
+                                    {
+                                        "key": {
+                                            "alt": false,
+                                            "cmd": true,
+                                            "ctrl": false,
+                                            "shift": true,
+                                            "key": "l",
+                                            "keypress": "l"
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Text I",
+                "id": 31425,
+                "commands": [
+                    {
+                        "id": 296771,
+                        "name": "Bigger text (when selected)",
+                        "visuals": [],
+                        "keySequences": [
+                            {
+                                "keyBins": [
+                                    {
+                                        "key": {
+                                            "alt": false,
+                                            "cmd": true,
+                                            "ctrl": false,
+                                            "shift": true,
+                                            "key": "=",
+                                            "keypress": "="
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": 296772,
+                        "name": "Smaller text",
+                        "visuals": [],
+                        "keySequences": [
+                            {
+                                "keyBins": [
+                                    {
+                                        "key": {
+                                            "alt": false,
+                                            "cmd": true,
+                                            "ctrl": false,
+                                            "shift": true,
+                                            "key": "-",
+                                            "keypress": "-"
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": 296775,
+                        "name": "Bold",
+                        "visuals": [],
+                        "keySequences": [
+                            {
+                                "keyBins": [
+                                    {
+                                        "key": {
+                                            "alt": false,
+                                            "cmd": true,
+                                            "ctrl": false,
+                                            "shift": false,
+                                            "key": "b",
+                                            "keypress": "b"
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": 296776,
+                        "name": "Italic",
+                        "visuals": [],
+                        "keySequences": [
+                            {
+                                "keyBins": [
+                                    {
+                                        "key": {
+                                            "alt": false,
+                                            "cmd": true,
+                                            "ctrl": false,
+                                            "shift": false,
+                                            "key": "i",
+                                            "keypress": "i"
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": 296777,
+                        "name": "Underline",
+                        "visuals": [],
+                        "keySequences": [
+                            {
+                                "keyBins": [
+                                    {
+                                        "key": {
+                                            "alt": false,
+                                            "cmd": true,
+                                            "ctrl": false,
+                                            "shift": false,
+                                            "key": "u",
+                                            "keypress": "u"
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Text II",
+                "id": 31430,
+                "commands": [
+                    {
+                        "id": 296773,
+                        "name": "Loosen",
+                        "visuals": [],
+                        "keySequences": [
+                            {
+                                "keyBins": [
+                                    {
+                                        "key": {
+                                            "alt": true,
+                                            "cmd": false,
+                                            "ctrl": false,
+                                            "shift": false,
+                                            "key": "right",
+                                            "keypress": "right"
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": 296774,
+                        "name": "Tighten",
+                        "visuals": [],
+                        "keySequences": [
+                            {
+                                "keyBins": [
+                                    {
+                                        "key": {
+                                            "alt": true,
+                                            "cmd": false,
+                                            "ctrl": false,
+                                            "shift": false,
+                                            "key": "left",
+                                            "keypress": "left"
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": 296778,
+                        "name": "Superscript",
+                        "visuals": [],
+                        "keySequences": [
+                            {
+                                "keyBins": [
+                                    {
+                                        "key": {
+                                            "alt": false,
+                                            "cmd": true,
+                                            "ctrl": true,
+                                            "shift": false,
+                                            "key": "=",
+                                            "keypress": "="
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": 296779,
+                        "name": "Subscript",
+                        "visuals": [],
+                        "keySequences": [
+                            {
+                                "keyBins": [
+                                    {
+                                        "key": {
+                                            "alt": false,
+                                            "cmd": true,
+                                            "ctrl": true,
+                                            "shift": false,
+                                            "key": "-",
+                                            "keypress": "-"
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": 296780,
+                        "name": "Align Center",
+                        "visuals": [],
+                        "keySequences": [
+                            {
+                                "keyBins": [
+                                    {
+                                        "key": {
+                                            "alt": false,
+                                            "cmd": true,
+                                            "ctrl": false,
+                                            "shift": true,
+                                            "key": "\\",
+                                            "keypress": "\\"
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": 296781,
+                        "name": "Justify Left",
+                        "visuals": [],
+                        "keySequences": [
+                            {
+                                "keyBins": [
+                                    {
+                                        "key": {
+                                            "alt": true,
+                                            "cmd": true,
+                                            "ctrl": false,
+                                            "shift": true,
+                                            "key": "\\",
+                                            "keypress": "\\"
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "File I",
+                "id": 31422,
+                "commands": [
+                    {
+                        "id": 296736,
+                        "name": "Open Document",
+                        "visuals": [],
+                        "keySequences": [
+                            {
+                                "keyBins": [
+                                    {
+                                        "key": {
+                                            "alt": false,
+                                            "cmd": true,
+                                            "ctrl": false,
+                                            "shift": false,
+                                            "key": "o",
+                                            "keypress": "o"
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": 296737,
+                        "name": "Close Document",
+                        "visuals": [],
+                        "keySequences": [
+                            {
+                                "keyBins": [
+                                    {
+                                        "key": {
+                                            "alt": false,
+                                            "cmd": false,
+                                            "ctrl": false,
+                                            "shift": false,
+                                            "key": "w",
+                                            "keypress": "w"
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": 296738,
+                        "name": "Save",
+                        "visuals": [],
+                        "keySequences": [
+                            {
+                                "keyBins": [
+                                    {
+                                        "key": {
+                                            "alt": false,
+                                            "cmd": true,
+                                            "ctrl": false,
+                                            "shift": false,
+                                            "key": "s",
+                                            "keypress": "s"
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": 296739,
+                        "name": "Save As",
+                        "visuals": [],
+                        "keySequences": [
+                            {
+                                "keyBins": [
+                                    {
+                                        "key": {
+                                            "alt": false,
+                                            "cmd": true,
+                                            "ctrl": false,
+                                            "shift": true,
+                                            "key": "s",
+                                            "keypress": "s"
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": 296740,
+                        "name": "Document Setup",
+                        "visuals": [],
+                        "keySequences": [
+                            {
+                                "keyBins": [
+                                    {
+                                        "key": {
+                                            "alt": false,
+                                            "cmd": true,
+                                            "ctrl": false,
+                                            "shift": true,
+                                            "key": "p",
+                                            "keypress": "p"
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Misc I",
+                "id": 31426,
+                "commands": [
+                    {
+                        "id": 296782,
+                        "name": "Select All",
+                        "visuals": [],
+                        "keySequences": [
+                            {
+                                "keyBins": [
+                                    {
+                                        "key": {
+                                            "alt": false,
+                                            "cmd": true,
+                                            "ctrl": false,
+                                            "shift": false,
+                                            "key": "a",
+                                            "keypress": "a"
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": 296783,
+                        "name": "Deselect",
+                        "visuals": [],
+                        "keySequences": [
+                            {
+                                "keyBins": [
+                                    {
+                                        "key": {
+                                            "alt": false,
+                                            "cmd": true,
+                                            "ctrl": false,
+                                            "shift": true,
+                                            "key": "d",
+                                            "keypress": "d"
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": 296784,
+                        "name": "Invert",
+                        "visuals": [],
+                        "keySequences": [
+                            {
+                                "keyBins": [
+                                    {
+                                        "key": {
+                                            "alt": false,
+                                            "cmd": true,
+                                            "ctrl": false,
+                                            "shift": true,
+                                            "key": "i",
+                                            "keypress": "i"
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": 296785,
+                        "name": "Show/hide Studio",
+                        "visuals": [],
+                        "keySequences": [
+                            {
+                                "keyBins": [
+                                    {
+                                        "key": {
+                                            "alt": false,
+                                            "cmd": true,
+                                            "ctrl": false,
+                                            "shift": true,
+                                            "key": "h",
+                                            "keypress": "h"
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": 296786,
+                        "name": "Show/hide toolbar",
+                        "visuals": [],
+                        "keySequences": [
+                            {
+                                "keyBins": [
+                                    {
+                                        "key": {
+                                            "alt": true,
+                                            "cmd": true,
+                                            "ctrl": false,
+                                            "shift": false,
+                                            "key": "t",
+                                            "keypress": "t"
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

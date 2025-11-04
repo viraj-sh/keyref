@@ -1,0 +1,2549 @@
+{
+    "tool": {
+        "slug": "ableton-live-9-win",
+        "name": "Ableton Live 9",
+        "os": "win",
+        "page_metadata": {
+            "cheat_sheet": {
+                "description": "Master Ableton Live with our comprehensive cheatsheet! Uncover essential shortcuts, features, and expert tips for creating and editing music like a pro."
+            }
+        },
+        "units": [
+            {
+                "name": "Working with Sets and the Program",
+                "id": 31396,
+                "commands": [
+                    {
+                        "id": 296478,
+                        "name": "Export MIDI File",
+                        "visuals": [],
+                        "keySequences": [
+                            {
+                                "keyBins": [
+                                    {
+                                        "key": {
+                                            "alt": false,
+                                            "cmd": false,
+                                            "ctrl": true,
+                                            "shift": true,
+                                            "key": "e",
+                                            "keypress": "e"
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": 296479,
+                        "name": "Export Audio/Video",
+                        "visuals": [],
+                        "keySequences": [
+                            {
+                                "keyBins": [
+                                    {
+                                        "key": {
+                                            "alt": false,
+                                            "cmd": false,
+                                            "ctrl": true,
+                                            "shift": true,
+                                            "key": "r",
+                                            "keypress": "r"
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": 296480,
+                        "name": "Quit Live",
+                        "visuals": [],
+                        "keySequences": [
+                            {
+                                "keyBins": [
+                                    {
+                                        "key": {
+                                            "alt": false,
+                                            "cmd": false,
+                                            "ctrl": true,
+                                            "shift": false,
+                                            "key": "q",
+                                            "keypress": "q"
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": 296481,
+                        "name": "Save Live Set As",
+                        "visuals": [],
+                        "keySequences": [
+                            {
+                                "keyBins": [
+                                    {
+                                        "key": {
+                                            "alt": false,
+                                            "cmd": false,
+                                            "ctrl": true,
+                                            "shift": true,
+                                            "key": "s",
+                                            "keypress": "s"
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": 296482,
+                        "name": "Save Live Set",
+                        "visuals": [],
+                        "keySequences": [
+                            {
+                                "keyBins": [
+                                    {
+                                        "key": {
+                                            "alt": false,
+                                            "cmd": false,
+                                            "ctrl": true,
+                                            "shift": false,
+                                            "key": "s",
+                                            "keypress": "s"
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": 296483,
+                        "name": "Open Live Set",
+                        "visuals": [],
+                        "keySequences": [
+                            {
+                                "keyBins": [
+                                    {
+                                        "key": {
+                                            "alt": false,
+                                            "cmd": false,
+                                            "ctrl": true,
+                                            "shift": false,
+                                            "key": "o",
+                                            "keypress": "o"
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": 296484,
+                        "name": "New Live Set",
+                        "visuals": [],
+                        "keySequences": [
+                            {
+                                "keyBins": [
+                                    {
+                                        "key": {
+                                            "alt": false,
+                                            "cmd": false,
+                                            "ctrl": true,
+                                            "shift": false,
+                                            "key": "n",
+                                            "keypress": "n"
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Showing and Hiding Views",
+                "id": 31397,
+                "commands": [
+                    {
+                        "id": 296485,
+                        "name": "Open the Preferences",
+                        "visuals": [],
+                        "keySequences": [
+                            {
+                                "keyBins": [
+                                    {
+                                        "key": {
+                                            "alt": false,
+                                            "cmd": false,
+                                            "ctrl": true,
+                                            "shift": false,
+                                            "key": ",",
+                                            "keypress": ","
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": 296486,
+                        "name": "Hide/Show Mixer",
+                        "visuals": [],
+                        "keySequences": [
+                            {
+                                "keyBins": [
+                                    {
+                                        "key": {
+                                            "alt": true,
+                                            "cmd": false,
+                                            "ctrl": true,
+                                            "shift": false,
+                                            "key": "m",
+                                            "keypress": "m"
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": 296487,
+                        "name": "Hide/Show Sends",
+                        "visuals": [],
+                        "keySequences": [
+                            {
+                                "keyBins": [
+                                    {
+                                        "key": {
+                                            "alt": true,
+                                            "cmd": false,
+                                            "ctrl": true,
+                                            "shift": false,
+                                            "key": "s",
+                                            "keypress": "s"
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": 296488,
+                        "name": "Hide/Show In/Out",
+                        "visuals": [],
+                        "keySequences": [
+                            {
+                                "keyBins": [
+                                    {
+                                        "key": {
+                                            "alt": true,
+                                            "cmd": false,
+                                            "ctrl": true,
+                                            "shift": false,
+                                            "key": "i",
+                                            "keypress": "i"
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": 296489,
+                        "name": "Hide/Show Overview",
+                        "visuals": [],
+                        "keySequences": [
+                            {
+                                "keyBins": [
+                                    {
+                                        "key": {
+                                            "alt": true,
+                                            "cmd": false,
+                                            "ctrl": true,
+                                            "shift": false,
+                                            "key": "o",
+                                            "keypress": "o"
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": 296490,
+                        "name": "Hide/Show Browser",
+                        "visuals": [],
+                        "keySequences": [
+                            {
+                                "keyBins": [
+                                    {
+                                        "key": {
+                                            "alt": true,
+                                            "cmd": false,
+                                            "ctrl": true,
+                                            "shift": false,
+                                            "key": "b",
+                                            "keypress": "b"
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": 296491,
+                        "name": "Hide/Show Info View",
+                        "visuals": [],
+                        "keySequences": [
+                            {
+                                "keyBins": [
+                                    {
+                                        "key": {
+                                            "alt": false,
+                                            "cmd": false,
+                                            "ctrl": false,
+                                            "shift": true,
+                                            "key": "/",
+                                            "keypress": "?"
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": 296492,
+                        "name": "Toggle Drum Rack/last-selected Pad",
+                        "visuals": [],
+                        "keySequences": [
+                            {
+                                "keyBins": [
+                                    {
+                                        "key": {
+                                            "alt": false,
+                                            "cmd": false,
+                                            "ctrl": false,
+                                            "shift": false,
+                                            "key": "d",
+                                            "keypress": "d"
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": 296493,
+                        "name": "Toggle Hot-Swap Mode",
+                        "visuals": [],
+                        "keySequences": [
+                            {
+                                "keyBins": [
+                                    {
+                                        "key": {
+                                            "alt": false,
+                                            "cmd": false,
+                                            "ctrl": false,
+                                            "shift": false,
+                                            "key": "q",
+                                            "keypress": "q"
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": 296494,
+                        "name": "Hide/Show Detail View",
+                        "visuals": [],
+                        "keySequences": [
+                            {
+                                "keyBins": [
+                                    {
+                                        "key": {
+                                            "alt": true,
+                                            "cmd": false,
+                                            "ctrl": true,
+                                            "shift": false,
+                                            "key": "l",
+                                            "keypress": "l"
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": 296495,
+                        "name": "Toggle Device/Clip view",
+                        "visuals": [],
+                        "keySequences": [
+                            {
+                                "keyBins": [
+                                    {
+                                        "key": {
+                                            "alt": false,
+                                            "cmd": false,
+                                            "ctrl": false,
+                                            "shift": true,
+                                            "key": "tab",
+                                            "keypress": "tab"
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": 296496,
+                        "name": "Toggle Session/Arrangement View",
+                        "visuals": [],
+                        "keySequences": [
+                            {
+                                "keyBins": [
+                                    {
+                                        "key": {
+                                            "alt": false,
+                                            "cmd": false,
+                                            "ctrl": false,
+                                            "shift": false,
+                                            "key": "tab",
+                                            "keypress": "tab"
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": 296497,
+                        "name": "Toggle Second Window",
+                        "visuals": [],
+                        "keySequences": [
+                            {
+                                "keyBins": [
+                                    {
+                                        "key": {
+                                            "alt": false,
+                                            "cmd": false,
+                                            "ctrl": true,
+                                            "shift": true,
+                                            "key": "w",
+                                            "keypress": "w"
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": 296498,
+                        "name": "Toggle Full Screen Mode",
+                        "visuals": [],
+                        "keySequences": [
+                            {
+                                "keyBins": [
+                                    {
+                                        "key": {
+                                            "alt": false,
+                                            "cmd": false,
+                                            "ctrl": false,
+                                            "shift": false,
+                                            "key": "f11",
+                                            "keypress": "f11"
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Transport Controls",
+                "id": 31395,
+                "commands": [
+                    {
+                        "id": 296465,
+                        "name": "Activate / Deactivate Track 8",
+                        "visuals": [],
+                        "keySequences": [
+                            {
+                                "keyBins": [
+                                    {
+                                        "key": {
+                                            "alt": false,
+                                            "cmd": false,
+                                            "ctrl": false,
+                                            "shift": false,
+                                            "key": "f8",
+                                            "keypress": "f8"
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": 296466,
+                        "name": "Activate / Deactivate Track 7",
+                        "visuals": [],
+                        "keySequences": [
+                            {
+                                "keyBins": [
+                                    {
+                                        "key": {
+                                            "alt": false,
+                                            "cmd": false,
+                                            "ctrl": false,
+                                            "shift": false,
+                                            "key": "f7",
+                                            "keypress": "f7"
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": 296467,
+                        "name": "Activate / Deactivate Track 6",
+                        "visuals": [],
+                        "keySequences": [
+                            {
+                                "keyBins": [
+                                    {
+                                        "key": {
+                                            "alt": false,
+                                            "cmd": false,
+                                            "ctrl": false,
+                                            "shift": false,
+                                            "key": "f6",
+                                            "keypress": "f6"
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": 296468,
+                        "name": "Activate / Deactivate Track 5",
+                        "visuals": [],
+                        "keySequences": [
+                            {
+                                "keyBins": [
+                                    {
+                                        "key": {
+                                            "alt": false,
+                                            "cmd": false,
+                                            "ctrl": false,
+                                            "shift": false,
+                                            "key": "f5",
+                                            "keypress": "f5"
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": 296469,
+                        "name": "Activate / Deactivate Track 4",
+                        "visuals": [],
+                        "keySequences": [
+                            {
+                                "keyBins": [
+                                    {
+                                        "key": {
+                                            "alt": false,
+                                            "cmd": false,
+                                            "ctrl": false,
+                                            "shift": false,
+                                            "key": "f4",
+                                            "keypress": "f4"
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": 296470,
+                        "name": "Activate / Deactivate Track 3",
+                        "visuals": [],
+                        "keySequences": [
+                            {
+                                "keyBins": [
+                                    {
+                                        "key": {
+                                            "alt": false,
+                                            "cmd": false,
+                                            "ctrl": false,
+                                            "shift": false,
+                                            "key": "f3",
+                                            "keypress": "f3"
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": 296471,
+                        "name": "Activate / Deactivate Track 2",
+                        "visuals": [],
+                        "keySequences": [
+                            {
+                                "keyBins": [
+                                    {
+                                        "key": {
+                                            "alt": false,
+                                            "cmd": false,
+                                            "ctrl": false,
+                                            "shift": false,
+                                            "key": "f2",
+                                            "keypress": "f2"
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": 296472,
+                        "name": "Activate / Deactivate Track 1",
+                        "visuals": [],
+                        "keySequences": [
+                            {
+                                "keyBins": [
+                                    {
+                                        "key": {
+                                            "alt": false,
+                                            "cmd": false,
+                                            "ctrl": false,
+                                            "shift": false,
+                                            "key": "f1",
+                                            "keypress": "f1"
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": 296473,
+                        "name": "Back to Arrangment",
+                        "visuals": [],
+                        "keySequences": [
+                            {
+                                "keyBins": [
+                                    {
+                                        "key": {
+                                            "alt": false,
+                                            "cmd": false,
+                                            "ctrl": false,
+                                            "shift": false,
+                                            "key": "f10",
+                                            "keypress": "f10"
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": 296474,
+                        "name": "Record",
+                        "visuals": [],
+                        "keySequences": [
+                            {
+                                "keyBins": [
+                                    {
+                                        "key": {
+                                            "alt": false,
+                                            "cmd": false,
+                                            "ctrl": false,
+                                            "shift": false,
+                                            "key": "f9",
+                                            "keypress": "f9"
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": 296475,
+                        "name": "Move Insert Marker to Beginning",
+                        "visuals": [],
+                        "keySequences": [
+                            {
+                                "keyBins": [
+                                    {
+                                        "key": {
+                                            "alt": false,
+                                            "cmd": false,
+                                            "ctrl": false,
+                                            "shift": false,
+                                            "key": "home",
+                                            "keypress": "home"
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": 296476,
+                        "name": "Continue Play from Stop Point",
+                        "visuals": [],
+                        "keySequences": [
+                            {
+                                "keyBins": [
+                                    {
+                                        "key": {
+                                            "alt": false,
+                                            "cmd": false,
+                                            "ctrl": false,
+                                            "shift": true,
+                                            "key": "space",
+                                            "keypress": "space"
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": 296477,
+                        "name": "Play from Start Marker / Stop",
+                        "visuals": [],
+                        "keySequences": [
+                            {
+                                "keyBins": [
+                                    {
+                                        "key": {
+                                            "alt": false,
+                                            "cmd": false,
+                                            "ctrl": false,
+                                            "shift": false,
+                                            "key": "space",
+                                            "keypress": "space"
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Using the File Browser",
+                "id": 31394,
+                "commands": [
+                    {
+                        "id": 296458,
+                        "name": "Search in Browser",
+                        "visuals": [],
+                        "keySequences": [
+                            {
+                                "keyBins": [
+                                    {
+                                        "key": {
+                                            "alt": false,
+                                            "cmd": false,
+                                            "ctrl": true,
+                                            "shift": false,
+                                            "key": "f",
+                                            "keypress": "f"
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": 296459,
+                        "name": "Preview Selected File",
+                        "visuals": [],
+                        "keySequences": [
+                            {
+                                "keyBins": [
+                                    {
+                                        "key": {
+                                            "alt": false,
+                                            "cmd": false,
+                                            "ctrl": false,
+                                            "shift": true,
+                                            "key": "enter",
+                                            "keypress": "enter"
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": 296460,
+                        "name": "Load Selected Item from Browser",
+                        "visuals": [],
+                        "keySequences": [
+                            {
+                                "keyBins": [
+                                    {
+                                        "key": {
+                                            "alt": false,
+                                            "cmd": false,
+                                            "ctrl": false,
+                                            "shift": false,
+                                            "key": "enter",
+                                            "keypress": "enter"
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": 296461,
+                        "name": "Close Folder",
+                        "visuals": [],
+                        "keySequences": [
+                            {
+                                "keyBins": [
+                                    {
+                                        "key": {
+                                            "alt": false,
+                                            "cmd": false,
+                                            "ctrl": false,
+                                            "shift": false,
+                                            "key": "left",
+                                            "keypress": "left"
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": 296462,
+                        "name": "Open Folder",
+                        "visuals": [],
+                        "keySequences": [
+                            {
+                                "keyBins": [
+                                    {
+                                        "key": {
+                                            "alt": false,
+                                            "cmd": false,
+                                            "ctrl": false,
+                                            "shift": false,
+                                            "key": "right",
+                                            "keypress": "right"
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": 296463,
+                        "name": "Scroll Up",
+                        "visuals": [],
+                        "keySequences": [
+                            {
+                                "keyBins": [
+                                    {
+                                        "key": {
+                                            "alt": false,
+                                            "cmd": false,
+                                            "ctrl": false,
+                                            "shift": false,
+                                            "key": "up",
+                                            "keypress": "up"
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": 296464,
+                        "name": "Scroll Down",
+                        "visuals": [],
+                        "keySequences": [
+                            {
+                                "keyBins": [
+                                    {
+                                        "key": {
+                                            "alt": false,
+                                            "cmd": false,
+                                            "ctrl": false,
+                                            "shift": false,
+                                            "key": "down",
+                                            "keypress": "down"
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Editing",
+                "id": 31393,
+                "commands": [
+                    {
+                        "id": 296440,
+                        "name": "Pan Right of Selection",
+                        "visuals": [],
+                        "keySequences": [
+                            {
+                                "keyBins": [
+                                    {
+                                        "key": {
+                                            "alt": true,
+                                            "cmd": false,
+                                            "ctrl": true,
+                                            "shift": false,
+                                            "key": "right",
+                                            "keypress": "right"
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": 296441,
+                        "name": "Pan Left of Selection",
+                        "visuals": [],
+                        "keySequences": [
+                            {
+                                "keyBins": [
+                                    {
+                                        "key": {
+                                            "alt": true,
+                                            "cmd": false,
+                                            "ctrl": true,
+                                            "shift": false,
+                                            "key": "left",
+                                            "keypress": "left"
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": 296442,
+                        "name": "Scroll Display to Follow Playback",
+                        "visuals": [],
+                        "keySequences": [
+                            {
+                                "keyBins": [
+                                    {
+                                        "key": {
+                                            "alt": false,
+                                            "cmd": false,
+                                            "ctrl": true,
+                                            "shift": true,
+                                            "key": "f",
+                                            "keypress": "f"
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": 296443,
+                        "name": "Insert Silence",
+                        "visuals": [],
+                        "keySequences": [
+                            {
+                                "keyBins": [
+                                    {
+                                        "key": {
+                                            "alt": false,
+                                            "cmd": false,
+                                            "ctrl": true,
+                                            "shift": false,
+                                            "key": "i",
+                                            "keypress": "i"
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": 296444,
+                        "name": "Loop Selection",
+                        "visuals": [],
+                        "keySequences": [
+                            {
+                                "keyBins": [
+                                    {
+                                        "key": {
+                                            "alt": false,
+                                            "cmd": false,
+                                            "ctrl": true,
+                                            "shift": false,
+                                            "key": "l",
+                                            "keypress": "l"
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": 296445,
+                        "name": "Create Fade/ Crossfade",
+                        "visuals": [],
+                        "keySequences": [
+                            {
+                                "keyBins": [
+                                    {
+                                        "key": {
+                                            "alt": true,
+                                            "cmd": false,
+                                            "ctrl": true,
+                                            "shift": false,
+                                            "key": "f",
+                                            "keypress": "f"
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": 296446,
+                        "name": "Consolidate selection to Clip",
+                        "visuals": [],
+                        "keySequences": [
+                            {
+                                "keyBins": [
+                                    {
+                                        "key": {
+                                            "alt": false,
+                                            "cmd": false,
+                                            "ctrl": true,
+                                            "shift": false,
+                                            "key": "j",
+                                            "keypress": "j"
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": 296447,
+                        "name": "Split Clip at Selection",
+                        "visuals": [],
+                        "keySequences": [
+                            {
+                                "keyBins": [
+                                    {
+                                        "key": {
+                                            "alt": false,
+                                            "cmd": false,
+                                            "ctrl": true,
+                                            "shift": false,
+                                            "key": "e",
+                                            "keypress": "e"
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": 296448,
+                        "name": "Move from one scene to another while renaming",
+                        "visuals": [],
+                        "keySequences": [
+                            {
+                                "keyBins": [
+                                    {
+                                        "key": {
+                                            "alt": false,
+                                            "cmd": false,
+                                            "ctrl": false,
+                                            "shift": false,
+                                            "key": "tab",
+                                            "keypress": "tab"
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": 296449,
+                        "name": "Select All",
+                        "visuals": [],
+                        "keySequences": [
+                            {
+                                "keyBins": [
+                                    {
+                                        "key": {
+                                            "alt": false,
+                                            "cmd": false,
+                                            "ctrl": true,
+                                            "shift": false,
+                                            "key": "a",
+                                            "keypress": "a"
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": 296450,
+                        "name": "Rename",
+                        "visuals": [],
+                        "keySequences": [
+                            {
+                                "keyBins": [
+                                    {
+                                        "key": {
+                                            "alt": false,
+                                            "cmd": false,
+                                            "ctrl": true,
+                                            "shift": false,
+                                            "key": "r",
+                                            "keypress": "r"
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": 296451,
+                        "name": "Redo",
+                        "visuals": [],
+                        "keySequences": [
+                            {
+                                "keyBins": [
+                                    {
+                                        "key": {
+                                            "alt": false,
+                                            "cmd": false,
+                                            "ctrl": true,
+                                            "shift": false,
+                                            "key": "y",
+                                            "keypress": "y"
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": 296452,
+                        "name": "Undo",
+                        "visuals": [],
+                        "keySequences": [
+                            {
+                                "keyBins": [
+                                    {
+                                        "key": {
+                                            "alt": false,
+                                            "cmd": false,
+                                            "ctrl": true,
+                                            "shift": false,
+                                            "key": "z",
+                                            "keypress": "z"
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": 296453,
+                        "name": "Delete",
+                        "visuals": [],
+                        "keySequences": [
+                            {
+                                "keyBins": [
+                                    {
+                                        "key": {
+                                            "alt": false,
+                                            "cmd": false,
+                                            "ctrl": false,
+                                            "shift": false,
+                                            "key": "del",
+                                            "keypress": "del"
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": 296454,
+                        "name": "Duplicate",
+                        "visuals": [],
+                        "keySequences": [
+                            {
+                                "keyBins": [
+                                    {
+                                        "key": {
+                                            "alt": false,
+                                            "cmd": false,
+                                            "ctrl": true,
+                                            "shift": false,
+                                            "key": "d",
+                                            "keypress": "d"
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": 296455,
+                        "name": "Paste",
+                        "visuals": [],
+                        "keySequences": [
+                            {
+                                "keyBins": [
+                                    {
+                                        "key": {
+                                            "alt": false,
+                                            "cmd": false,
+                                            "ctrl": true,
+                                            "shift": false,
+                                            "key": "v",
+                                            "keypress": "v"
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": 296456,
+                        "name": "Copy",
+                        "visuals": [],
+                        "keySequences": [
+                            {
+                                "keyBins": [
+                                    {
+                                        "key": {
+                                            "alt": false,
+                                            "cmd": false,
+                                            "ctrl": true,
+                                            "shift": false,
+                                            "key": "c",
+                                            "keypress": "c"
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": 296457,
+                        "name": "Cut",
+                        "visuals": [],
+                        "keySequences": [
+                            {
+                                "keyBins": [
+                                    {
+                                        "key": {
+                                            "alt": false,
+                                            "cmd": false,
+                                            "ctrl": true,
+                                            "shift": false,
+                                            "key": "x",
+                                            "keypress": "x"
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Zooming, Displays and Selections",
+                "id": 31392,
+                "commands": [
+                    {
+                        "id": 296437,
+                        "name": "Follow (Auto Scroll)",
+                        "visuals": [],
+                        "keySequences": [
+                            {
+                                "keyBins": [
+                                    {
+                                        "key": {
+                                            "alt": false,
+                                            "cmd": false,
+                                            "ctrl": true,
+                                            "shift": true,
+                                            "key": "f",
+                                            "keypress": "f"
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": 296438,
+                        "name": "Zoom Out",
+                        "visuals": [],
+                        "keySequences": [
+                            {
+                                "keyBins": [
+                                    {
+                                        "key": {
+                                            "alt": false,
+                                            "cmd": false,
+                                            "ctrl": false,
+                                            "shift": false,
+                                            "key": "­",
+                                            "keypress": "-"
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": 296439,
+                        "name": "Zoom In",
+                        "visuals": [],
+                        "keySequences": [
+                            {
+                                "keyBins": [
+                                    {
+                                        "key": {
+                                            "alt": false,
+                                            "cmd": false,
+                                            "ctrl": false,
+                                            "shift": true,
+                                            "key": "=",
+                                            "keypress": "+"
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Commands for Tracks",
+                "id": 31391,
+                "commands": [
+                    {
+                        "id": 296426,
+                        "name": "Add Device From Browser",
+                        "visuals": [],
+                        "keySequences": [
+                            {
+                                "keyBins": [
+                                    {
+                                        "key": {
+                                            "alt": false,
+                                            "cmd": false,
+                                            "ctrl": false,
+                                            "shift": false,
+                                            "key": "enter",
+                                            "keypress": "enter"
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": 296427,
+                        "name": "Move Nonadjacent Track Up Without Collapsing",
+                        "visuals": [],
+                        "keySequences": [
+                            {
+                                "keyBins": [
+                                    {
+                                        "key": {
+                                            "alt": false,
+                                            "cmd": false,
+                                            "ctrl": true,
+                                            "shift": false,
+                                            "key": "up",
+                                            "keypress": "up"
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": 296428,
+                        "name": "Move Nonadjacent Track Down Without Collapsing",
+                        "visuals": [],
+                        "keySequences": [
+                            {
+                                "keyBins": [
+                                    {
+                                        "key": {
+                                            "alt": false,
+                                            "cmd": false,
+                                            "ctrl": true,
+                                            "shift": false,
+                                            "key": "down",
+                                            "keypress": "down"
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": 296429,
+                        "name": "Hide Grouped Tracks",
+                        "visuals": [],
+                        "keySequences": [
+                            {
+                                "keyBins": [
+                                    {
+                                        "key": {
+                                            "alt": false,
+                                            "cmd": false,
+                                            "ctrl": false,
+                                            "shift": false,
+                                            "key": "­",
+                                            "keypress": "-"
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": 296430,
+                        "name": "Show Grouped Tracks",
+                        "visuals": [],
+                        "keySequences": [
+                            {
+                                "keyBins": [
+                                    {
+                                        "key": {
+                                            "alt": false,
+                                            "cmd": false,
+                                            "ctrl": false,
+                                            "shift": true,
+                                            "key": "=",
+                                            "keypress": "+"
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": 296431,
+                        "name": "Ungroup Tracks",
+                        "visuals": [],
+                        "keySequences": [
+                            {
+                                "keyBins": [
+                                    {
+                                        "key": {
+                                            "alt": false,
+                                            "cmd": false,
+                                            "ctrl": true,
+                                            "shift": true,
+                                            "key": "g",
+                                            "keypress": "g"
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": 296432,
+                        "name": "Group Selected Track",
+                        "visuals": [],
+                        "keySequences": [
+                            {
+                                "keyBins": [
+                                    {
+                                        "key": {
+                                            "alt": false,
+                                            "cmd": false,
+                                            "ctrl": true,
+                                            "shift": false,
+                                            "key": "g",
+                                            "keypress": "g"
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": 296433,
+                        "name": "While Renaming, Go to next Track",
+                        "visuals": [],
+                        "keySequences": [
+                            {
+                                "keyBins": [
+                                    {
+                                        "key": {
+                                            "alt": false,
+                                            "cmd": false,
+                                            "ctrl": false,
+                                            "shift": false,
+                                            "key": "tab",
+                                            "keypress": "tab"
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": 296434,
+                        "name": "Rename Selected Track",
+                        "visuals": [],
+                        "keySequences": [
+                            {
+                                "keyBins": [
+                                    {
+                                        "key": {
+                                            "alt": false,
+                                            "cmd": false,
+                                            "ctrl": true,
+                                            "shift": false,
+                                            "key": "r",
+                                            "keypress": "r"
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": 296435,
+                        "name": "Insert MiDI Track",
+                        "visuals": [],
+                        "keySequences": [
+                            {
+                                "keyBins": [
+                                    {
+                                        "key": {
+                                            "alt": false,
+                                            "cmd": false,
+                                            "ctrl": true,
+                                            "shift": true,
+                                            "key": "t",
+                                            "keypress": "t"
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": 296436,
+                        "name": "Insert Audio Track",
+                        "visuals": [],
+                        "keySequences": [
+                            {
+                                "keyBins": [
+                                    {
+                                        "key": {
+                                            "alt": false,
+                                            "cmd": false,
+                                            "ctrl": true,
+                                            "shift": false,
+                                            "key": "t",
+                                            "keypress": "t"
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Grid Snapping And Global Quantization",
+                "id": 31390,
+                "commands": [
+                    {
+                        "id": 296415,
+                        "name": "Quantization Off",
+                        "visuals": [],
+                        "keySequences": [
+                            {
+                                "keyBins": [
+                                    {
+                                        "key": {
+                                            "alt": false,
+                                            "cmd": false,
+                                            "ctrl": true,
+                                            "shift": false,
+                                            "key": "0",
+                                            "keypress": "0"
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": 296416,
+                        "name": "1-Bar Quantization",
+                        "visuals": [],
+                        "keySequences": [
+                            {
+                                "keyBins": [
+                                    {
+                                        "key": {
+                                            "alt": false,
+                                            "cmd": false,
+                                            "ctrl": true,
+                                            "shift": false,
+                                            "key": "9",
+                                            "keypress": "9"
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": 296417,
+                        "name": "Quarter Note Quantization",
+                        "visuals": [],
+                        "keySequences": [
+                            {
+                                "keyBins": [
+                                    {
+                                        "key": {
+                                            "alt": false,
+                                            "cmd": false,
+                                            "ctrl": true,
+                                            "shift": false,
+                                            "key": "8",
+                                            "keypress": "8"
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": 296418,
+                        "name": "8th Note Quantization",
+                        "visuals": [],
+                        "keySequences": [
+                            {
+                                "keyBins": [
+                                    {
+                                        "key": {
+                                            "alt": false,
+                                            "cmd": false,
+                                            "ctrl": true,
+                                            "shift": false,
+                                            "key": "7",
+                                            "keypress": "7"
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": 296419,
+                        "name": "16th Note Quantization",
+                        "visuals": [],
+                        "keySequences": [
+                            {
+                                "keyBins": [
+                                    {
+                                        "key": {
+                                            "alt": false,
+                                            "cmd": false,
+                                            "ctrl": true,
+                                            "shift": false,
+                                            "key": "6",
+                                            "keypress": "6"
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": 296420,
+                        "name": "Fixed/Zoom Adaptive Grid",
+                        "visuals": [],
+                        "keySequences": [
+                            {
+                                "keyBins": [
+                                    {
+                                        "key": {
+                                            "alt": false,
+                                            "cmd": false,
+                                            "ctrl": true,
+                                            "shift": false,
+                                            "key": "5",
+                                            "keypress": "5"
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": 296421,
+                        "name": "Toggle Snap to Grid",
+                        "visuals": [],
+                        "keySequences": [
+                            {
+                                "keyBins": [
+                                    {
+                                        "key": {
+                                            "alt": false,
+                                            "cmd": false,
+                                            "ctrl": true,
+                                            "shift": false,
+                                            "key": "4",
+                                            "keypress": "4"
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": 296422,
+                        "name": "Toggle Triplet Grid",
+                        "visuals": [],
+                        "keySequences": [
+                            {
+                                "keyBins": [
+                                    {
+                                        "key": {
+                                            "alt": false,
+                                            "cmd": false,
+                                            "ctrl": true,
+                                            "shift": false,
+                                            "key": "3",
+                                            "keypress": "3"
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": 296423,
+                        "name": "Widen Grid",
+                        "visuals": [],
+                        "keySequences": [
+                            {
+                                "keyBins": [
+                                    {
+                                        "key": {
+                                            "alt": false,
+                                            "cmd": false,
+                                            "ctrl": true,
+                                            "shift": false,
+                                            "key": "2",
+                                            "keypress": "2"
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": 296424,
+                        "name": "Narrow Grid",
+                        "visuals": [],
+                        "keySequences": [
+                            {
+                                "keyBins": [
+                                    {
+                                        "key": {
+                                            "alt": false,
+                                            "cmd": false,
+                                            "ctrl": true,
+                                            "shift": false,
+                                            "key": "1",
+                                            "keypress": "1"
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": 296425,
+                        "name": "Toggle Draw Mode",
+                        "visuals": [],
+                        "keySequences": [
+                            {
+                                "keyBins": [
+                                    {
+                                        "key": {
+                                            "alt": false,
+                                            "cmd": false,
+                                            "ctrl": false,
+                                            "shift": false,
+                                            "key": "b",
+                                            "keypress": "b"
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Adjusting Values",
+                "id": 31389,
+                "commands": [
+                    {
+                        "id": 296406,
+                        "name": "Confirm Value Entry",
+                        "visuals": [],
+                        "keySequences": [
+                            {
+                                "keyBins": [
+                                    {
+                                        "key": {
+                                            "alt": false,
+                                            "cmd": false,
+                                            "ctrl": false,
+                                            "shift": false,
+                                            "key": "enter",
+                                            "keypress": "enter"
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": 296407,
+                        "name": "Abort Value Entry",
+                        "visuals": [],
+                        "keySequences": [
+                            {
+                                "keyBins": [
+                                    {
+                                        "key": {
+                                            "alt": false,
+                                            "cmd": false,
+                                            "ctrl": false,
+                                            "shift": false,
+                                            "key": "esc",
+                                            "keypress": "esc"
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": 296408,
+                        "name": "Got to Previous Field (Bar/Beat/16th)",
+                        "visuals": [],
+                        "keySequences": [
+                            {
+                                "keyBins": [
+                                    {
+                                        "key": {
+                                            "alt": false,
+                                            "cmd": false,
+                                            "ctrl": false,
+                                            "shift": false,
+                                            "key": ",",
+                                            "keypress": ","
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": 296409,
+                        "name": "Go to Next Field (Bar/Beat/16th)",
+                        "visuals": [],
+                        "keySequences": [
+                            {
+                                "keyBins": [
+                                    {
+                                        "key": {
+                                            "alt": false,
+                                            "cmd": false,
+                                            "ctrl": false,
+                                            "shift": false,
+                                            "key": ".",
+                                            "keypress": "."
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": 296410,
+                        "name": "Return to Default",
+                        "visuals": [],
+                        "keySequences": [
+                            {
+                                "keyBins": [
+                                    {
+                                        "key": {
+                                            "alt": false,
+                                            "cmd": false,
+                                            "ctrl": false,
+                                            "shift": false,
+                                            "key": "del",
+                                            "keypress": "del"
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": 296411,
+                        "name": "Decrement Value (Finer Resolution)",
+                        "visuals": [],
+                        "keySequences": [
+                            {
+                                "keyBins": [
+                                    {
+                                        "key": {
+                                            "alt": false,
+                                            "cmd": false,
+                                            "ctrl": true,
+                                            "shift": false,
+                                            "key": "down",
+                                            "keypress": "down"
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": 296412,
+                        "name": "Increment Value (Finer Resolution)",
+                        "visuals": [],
+                        "keySequences": [
+                            {
+                                "keyBins": [
+                                    {
+                                        "key": {
+                                            "alt": false,
+                                            "cmd": false,
+                                            "ctrl": true,
+                                            "shift": false,
+                                            "key": "up",
+                                            "keypress": "up"
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": 296413,
+                        "name": "Decrement Value",
+                        "visuals": [],
+                        "keySequences": [
+                            {
+                                "keyBins": [
+                                    {
+                                        "key": {
+                                            "alt": false,
+                                            "cmd": false,
+                                            "ctrl": false,
+                                            "shift": false,
+                                            "key": "down",
+                                            "keypress": "down"
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": 296414,
+                        "name": "Increment Value",
+                        "visuals": [],
+                        "keySequences": [
+                            {
+                                "keyBins": [
+                                    {
+                                        "key": {
+                                            "alt": false,
+                                            "cmd": false,
+                                            "ctrl": false,
+                                            "shift": false,
+                                            "key": "up",
+                                            "keypress": "up"
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Key / MIDI Map Mode and the Computer MIDI keyboard",
+                "id": 31388,
+                "commands": [
+                    {
+                        "id": 296403,
+                        "name": "Computer MIDI Keyboard On/Off",
+                        "visuals": [],
+                        "keySequences": [
+                            {
+                                "keyBins": [
+                                    {
+                                        "key": {
+                                            "alt": false,
+                                            "cmd": false,
+                                            "ctrl": true,
+                                            "shift": true,
+                                            "key": "k",
+                                            "keypress": "k"
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": 296404,
+                        "name": "Toggle Key Map Mode",
+                        "visuals": [],
+                        "keySequences": [
+                            {
+                                "keyBins": [
+                                    {
+                                        "key": {
+                                            "alt": false,
+                                            "cmd": false,
+                                            "ctrl": true,
+                                            "shift": false,
+                                            "key": "k",
+                                            "keypress": "k"
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": 296405,
+                        "name": "Toggle MIDI Map Mode",
+                        "visuals": [],
+                        "keySequences": [
+                            {
+                                "keyBins": [
+                                    {
+                                        "key": {
+                                            "alt": false,
+                                            "cmd": false,
+                                            "ctrl": true,
+                                            "shift": false,
+                                            "key": "m",
+                                            "keypress": "m"
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Clip View Sample Display",
+                "id": 31387,
+                "commands": [
+                    {
+                        "id": 296394,
+                        "name": "Move Clip Region with Start Marker Right",
+                        "visuals": [],
+                        "keySequences": [
+                            {
+                                "keyBins": [
+                                    {
+                                        "key": {
+                                            "alt": false,
+                                            "cmd": false,
+                                            "ctrl": false,
+                                            "shift": true,
+                                            "key": "right",
+                                            "keypress": "right"
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": 296395,
+                        "name": "Move Clip Region with Start Marker Left",
+                        "visuals": [],
+                        "keySequences": [
+                            {
+                                "keyBins": [
+                                    {
+                                        "key": {
+                                            "alt": false,
+                                            "cmd": false,
+                                            "ctrl": false,
+                                            "shift": true,
+                                            "key": "left",
+                                            "keypress": "left"
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": 296396,
+                        "name": "Scroll Display to Follow Playback",
+                        "visuals": [],
+                        "keySequences": [
+                            {
+                                "keyBins": [
+                                    {
+                                        "key": {
+                                            "alt": false,
+                                            "cmd": false,
+                                            "ctrl": true,
+                                            "shift": true,
+                                            "key": "f",
+                                            "keypress": "f"
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": 296397,
+                        "name": "Select Warp Marker to Right",
+                        "visuals": [],
+                        "keySequences": [
+                            {
+                                "keyBins": [
+                                    {
+                                        "key": {
+                                            "alt": false,
+                                            "cmd": false,
+                                            "ctrl": true,
+                                            "shift": false,
+                                            "key": "right",
+                                            "keypress": "right"
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": 296398,
+                        "name": "Select Warp Marker to Left",
+                        "visuals": [],
+                        "keySequences": [
+                            {
+                                "keyBins": [
+                                    {
+                                        "key": {
+                                            "alt": false,
+                                            "cmd": false,
+                                            "ctrl": true,
+                                            "shift": false,
+                                            "key": "left",
+                                            "keypress": "left"
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": 296399,
+                        "name": "Move Selected Warp Marker Right",
+                        "visuals": [],
+                        "keySequences": [
+                            {
+                                "keyBins": [
+                                    {
+                                        "key": {
+                                            "alt": false,
+                                            "cmd": false,
+                                            "ctrl": false,
+                                            "shift": false,
+                                            "key": "right",
+                                            "keypress": "right"
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": 296400,
+                        "name": "Move Selected Warp Marker Left",
+                        "visuals": [],
+                        "keySequences": [
+                            {
+                                "keyBins": [
+                                    {
+                                        "key": {
+                                            "alt": false,
+                                            "cmd": false,
+                                            "ctrl": false,
+                                            "shift": false,
+                                            "key": "left",
+                                            "keypress": "left"
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": 296401,
+                        "name": "Quantize Settings",
+                        "visuals": [],
+                        "keySequences": [
+                            {
+                                "keyBins": [
+                                    {
+                                        "key": {
+                                            "alt": false,
+                                            "cmd": false,
+                                            "ctrl": true,
+                                            "shift": true,
+                                            "key": "u",
+                                            "keypress": "u"
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": 296402,
+                        "name": "Quantize",
+                        "visuals": [],
+                        "keySequences": [
+                            {
+                                "keyBins": [
+                                    {
+                                        "key": {
+                                            "alt": false,
+                                            "cmd": false,
+                                            "ctrl": true,
+                                            "shift": false,
+                                            "key": "u",
+                                            "keypress": "u"
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Clip View MIDI Editor",
+                "id": 31386,
+                "commands": [
+                    {
+                        "id": 296385,
+                        "name": "Move Clip Region with Start Marker to Right",
+                        "visuals": [],
+                        "keySequences": [
+                            {
+                                "keyBins": [
+                                    {
+                                        "key": {
+                                            "alt": false,
+                                            "cmd": false,
+                                            "ctrl": false,
+                                            "shift": true,
+                                            "key": "right",
+                                            "keypress": "right"
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": 296386,
+                        "name": "Move Clip Region with Start Marker to Left",
+                        "visuals": [],
+                        "keySequences": [
+                            {
+                                "keyBins": [
+                                    {
+                                        "key": {
+                                            "alt": false,
+                                            "cmd": false,
+                                            "ctrl": false,
+                                            "shift": true,
+                                            "key": "left",
+                                            "keypress": "left"
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": 296387,
+                        "name": "Scroll Display to Follow Playback",
+                        "visuals": [],
+                        "keySequences": [
+                            {
+                                "keyBins": [
+                                    {
+                                        "key": {
+                                            "alt": false,
+                                            "cmd": false,
+                                            "ctrl": true,
+                                            "shift": true,
+                                            "key": "f",
+                                            "keypress": "f"
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": 296388,
+                        "name": "Move Insert Marker to End",
+                        "visuals": [],
+                        "keySequences": [
+                            {
+                                "keyBins": [
+                                    {
+                                        "key": {
+                                            "alt": false,
+                                            "cmd": false,
+                                            "ctrl": false,
+                                            "shift": false,
+                                            "key": "end",
+                                            "keypress": "end"
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": 296389,
+                        "name": "Move Insert Marker to Beginning",
+                        "visuals": [],
+                        "keySequences": [
+                            {
+                                "keyBins": [
+                                    {
+                                        "key": {
+                                            "alt": false,
+                                            "cmd": false,
+                                            "ctrl": false,
+                                            "shift": false,
+                                            "key": "home",
+                                            "keypress": "home"
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": 296390,
+                        "name": "Scroll Editor Vertically Down",
+                        "visuals": [],
+                        "keySequences": [
+                            {
+                                "keyBins": [
+                                    {
+                                        "key": {
+                                            "alt": false,
+                                            "cmd": false,
+                                            "ctrl": false,
+                                            "shift": false,
+                                            "key": "pagedown",
+                                            "keypress": "pagedown"
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": 296391,
+                        "name": "Scroll Editor Vertically Up",
+                        "visuals": [],
+                        "keySequences": [
+                            {
+                                "keyBins": [
+                                    {
+                                        "key": {
+                                            "alt": false,
+                                            "cmd": false,
+                                            "ctrl": false,
+                                            "shift": false,
+                                            "key": "pageup",
+                                            "keypress": "pageup"
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": 296392,
+                        "name": "Quantize Settings",
+                        "visuals": [],
+                        "keySequences": [
+                            {
+                                "keyBins": [
+                                    {
+                                        "key": {
+                                            "alt": false,
+                                            "cmd": false,
+                                            "ctrl": true,
+                                            "shift": true,
+                                            "key": "u",
+                                            "keypress": "u"
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": 296393,
+                        "name": "Quantize",
+                        "visuals": [],
+                        "keySequences": [
+                            {
+                                "keyBins": [
+                                    {
+                                        "key": {
+                                            "alt": false,
+                                            "cmd": false,
+                                            "ctrl": true,
+                                            "shift": false,
+                                            "key": "u",
+                                            "keypress": "u"
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Working with Plug-Ins and Devices",
+                "id": 31385,
+                "commands": [
+                    {
+                        "id": 296382,
+                        "name": "Load Device from Browser",
+                        "visuals": [],
+                        "keySequences": [
+                            {
+                                "keyBins": [
+                                    {
+                                        "key": {
+                                            "alt": false,
+                                            "cmd": false,
+                                            "ctrl": false,
+                                            "shift": false,
+                                            "key": "enter",
+                                            "keypress": "enter"
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": 296383,
+                        "name": "Group/Ungroup Selected Plugins",
+                        "visuals": [],
+                        "keySequences": [
+                            {
+                                "keyBins": [
+                                    {
+                                        "key": {
+                                            "alt": false,
+                                            "cmd": false,
+                                            "ctrl": true,
+                                            "shift": false,
+                                            "key": "g",
+                                            "keypress": "g"
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": 296384,
+                        "name": "Show/Hide Plugin Windows",
+                        "visuals": [],
+                        "keySequences": [
+                            {
+                                "keyBins": [
+                                    {
+                                        "key": {
+                                            "alt": true,
+                                            "cmd": false,
+                                            "ctrl": true,
+                                            "shift": false,
+                                            "key": "f",
+                                            "keypress": "f"
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}
