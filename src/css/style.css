@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+3:ital,wght@0,200..900;1,200..900&display=swap');
+html {
+    overflow-y: scroll;
+}
+body {
+    font-family: "Source Sans 3", sans-serif;
+    font-weight: 400;
+    font-size: 20px;
+}
+@supports (grid-template-rows: masonry) {
+    #cards-container {
+        grid-template-rows: masonry;
+    }
+}

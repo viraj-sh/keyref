@@ -1316,7 +1316,7 @@
                                             "cmd": false,
                                             "ctrl": false,
                                             "shift": false,
-                                            "key": "­",
+                                            "key": "-",
                                             "keypress": "-"
                                         }
                                     }
@@ -1427,7 +1427,7 @@
                                             "cmd": false,
                                             "ctrl": false,
                                             "shift": false,
-                                            "key": "­",
+                                            "key": "-",
                                             "keypress": "-"
                                         }
                                     }
