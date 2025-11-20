@@ -1,19 +1,17 @@
 name: Scraper
 
-env:
-  DRY_RUN: true
-
 on:
   schedule:
-    - cron: "0 */6 * * *"  # every 6 hours (change as needed)
-  workflow_dispatch:        # allow manual run
+    - cron: "0 */6 * * *" # every 6 hours (change as needed)
+  workflow_dispatch: # allow manual run
 
 permissions:
-  contents: write   # needed so the workflow can push changes
+  contents: write # needed so the workflow can push changes
 
 jobs:
   run-scraper:
     runs-on: ubuntu-latest
+    environment: commit-approval
 
     steps:
       # Checkout repository
@@ -36,13 +34,17 @@ jobs:
         run: |
           python scraper.py
 
+      # Discard changes to specific files
+      - name: Reset ignored files
+        run: |
+          git checkout -- data/cheatsheet/ableton-live-9-win.json
+
       # Commit and push data updates
       - name: Commit changes
-        if: env.DRY_RUN != 'true'
         run: |
           git config --global user.name "github-actions"
           git config --global user.email "actions@github.com"
-      
+
           git add data
           if git diff --cached --quiet; then
               echo "No changes."
