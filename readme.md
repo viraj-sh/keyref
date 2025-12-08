@@ -1,6 +1,13 @@
+# keyref
+
+Keyboard shortcut reference for popular tools and websites.  
+🔗 [keyref.netlify.app](https://keyref.netlify.app)
+
+---
+
 ## About
 
-[**keyref**](https://keyref.netlify.app) is a simple web app that collects and displays keyboard shortcut cheatsheets for different tools and platforms — all in one place.
+**keyref** is a simple web app that collects and displays keyboard shortcut cheatsheets for different tools and platforms — all in one place.
 
 It was built to solve a common problem: finding and managing keyboard shortcuts across multiple apps can be frustrating, especially when you just want quick access without digging through documentation or cluttered sites.
 
@@ -8,7 +15,7 @@ With **keyref**, you can:
 
 - Browse and view keyboard shortcuts for a wide range of tools.
 - Download cheatsheets for offline use.
-- Jump directly to the practice pages on [shortcuts.foo](https://shortcuts.foo) to test your skills.
+- Jump directly to the practice pages on [shortcuts.foo](www.shortcutfoo.com) to test your skills.
 - Access all this through a clean and fast interface.
 
 ---
@@ -50,7 +57,7 @@ Future updates may include:
 
 - **Frontend:** Tailwind + Vanilla JS
 - **Hosting:** Netlify
-- **Data Source:** [shortcuts.foo](https://www.shortcutfoo) endpoints
+- **Data Source:** [shortcuts.foo](www.shortcutfoo.com) endpoints
 
 ---
 
