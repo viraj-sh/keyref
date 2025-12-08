@@ -30,6 +30,15 @@ Each tool page includes:
 
 ---
 
+## Preview
+
+| Tools                                      | Cheatsheet                                           |
+| :-------------------------------------------- | :-------------------------------------------- |
+| <img src="https://raw.githubusercontent.com/viraj-sh/keyref/refs/heads/main/.github/assets/preview_tool_list.png" width="500" height="300"/> | <img src="https://raw.githubusercontent.com/viraj-sh/keyref/refs/heads/main/.github/assets/preview_tool_git.png" width="500" height="300"/> |
+
+
+---
+
 ## Motivation
 
 While practicing shortcuts on **shortcuts.foo** is great, accessing the cheatsheets themselves wasn’t always convenient.  
