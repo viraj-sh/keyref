@@ -14,12 +14,13 @@
 </head>
 
 <body class="bg-slate-900">
-
-
-    <!-- Start of Navigation Bar -->
-    <nav
-        class="relative block w-full max-w-screen-lg px-4 py-2 mx-auto text-white bg-slate-900 shadow-md rounded-md lg:px-8 lg:py-3 mt-10 backdrop-saturate-150 border border-slate-700">
-        <div class="container relative flex flex-wrap items-center justify-between mx-auto text-gray-100">
+    <!-- Fixed background for navbar gap -->
+    <div class="fixed top-0 left-0 w-full h-10 bg-slate-900 z-40 pointer-events-none"></div>
+    <div class="bg-slate-900 pt-10 min-h-screen">
+        <!-- Navigation Bar -->
+        <nav
+            class="sticky top-10 z-50 block w-full max-w-screen-lg px-4 py-2 mx-auto text-white bg-slate-900 shadow-md rounded-md lg:px-8 lg:py-3 backdrop-saturate-150 border border-slate-700">
+            <div class="container relative flex flex-wrap items-center justify-between mx-auto text-gray-100">
             <!-- Left Section -->
             <a href="/index.html"
                 class="mr-4 block cursor-pointer py-1.5 text-base text-gray-200 hover:text-slate-200 font-semibold z-10">
